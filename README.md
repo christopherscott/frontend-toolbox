@@ -14,7 +14,62 @@ Shamelessly aggregated from the following resources:
 
 _"★" recommended and currently used by the maintainer_
 
+## HTML
+
+- ★[HTML5 Spec for Web Developers](http://developers.whatwg.org/): This specification is intended for authors of documents and scripts that use the features defined in this specification.
+
+## Browser Compatibility
+
+- [When can I use...](http://caniuse.com/): Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers.
+- [HTML5 & CSS3 Readiness](http://html5readiness.com/): We don't have to wait for entire specs to be completed, we can start using some hawtness now.
+- [HTML5 Please](http://html5please.com/): Use the new and shiny responsibly.
+
 ## JavaScript
+
+### Frameworks ([MV* et al](http://lostechies.com/derickbailey/2011/12/23/backbone-js-is-not-an-mvc-framework/))
+
+- [Backbone.js](http://documentcloud.github.com/backbone)
+- [Ember.js](http://emberjs.com)
+- [AngularJS](http://angularjs.org)
+- [Spine](http://spinejs.com)
+- [KnockoutJS](http://knockoutjs.com) (MVVM)
+- [Dojo](http://dojotoolkit.org)
+- [YUI](http://yuilibrary.com)
+- [Batman.js](http://batmanjs.org)
+- [Closure](http://code.google.com/closure/library/)
+- [Agility.js](http://agilityjs.com)
+- [Knockback.js](http://kmalakoff.github.com/knockback)
+- [Google Web Toolkit](https://developers.google.com/web-toolkit/)
+- [CanJS](http://canjs.us)
+- [Maria.js](https://github.com/petermichaux/maria)
+- [cujo.js](http://cujojs.github.com)
+- [Meteor](http://meteor.com)
+- [Derby](http://derbyjs.com)
+- [SocketStream](http://www.socketstream.org) + [jQuery](http://jquery.com)
+- [Ext.js](http://www.sencha.com/products/extjs)
+- [Sammy.js](http://sammyjs.org)
+- [JavaScriptMVC](http://javascriptmvc.com)
+- [Stapes.js](http://hay.github.com/stapes)
+- [Epitome](http://dimitarchristoff.github.com/Epitome)
+- [TroopJS](https://github.com/troopjs)
+- [soma.js](http://somajs.github.com/somajs)
+- [DUEL](https://bitbucket.org/mckamey/duel/wiki/Home)
+- [Fidel](https://github.com/jgallen23/fidel)
+- [Olives](https://github.com/flams/olives)
+- [PlastronJS](https://github.com/rhysbrettbowen/PlastronJS)
+- [Dijon](https://github.com/creynders/dijon-framework)
+- [rAppid.js](http://www.rappidjs.com)
+- [o_O](http://weepy.github.com/o_O)
+- [Fun](https://github.com/marcuswestin/fun)
+- [KnockoutJS](http://knockoutjs.com) + [RequireJS](http://requirejs.org) (using AMD)
+- [AngularJS](http://angularjs.org) + [RequireJS](http://requirejs.org) (using AMD)
+- [AngularJS](http://angularjs.org) (optimized)
+- [Backbone.xmpp](https://github.com/ggozad/Backbone.xmpp)
+
+
+### jQuery
+
+- [jQAPI](http://jqapi.com/): Alternative jQuery Documentation
 
 ### [Transcompilation](http://en.wikipedia.org/wiki/Source-to-source_compiler) Languages
 
@@ -23,13 +78,86 @@ _"★" recommended and currently used by the maintainer_
 - [LiveScript](http://gkz.github.com/LiveScript/): aims for increased expressiveness and code beauty, while adding features to assist in functional style programming, imperative and object oriented programming, and has an optional class system with inheritance, calls to super, and more.
 - [Roy](http://roy.brianmckenna.org/): an experimental programming language that targets JavaScript and tries to meld JavaScript semantics with some features common in static functional languages.
 
+### Linters
+
+- [JSHint](http://www.jshint.com/): JSHint is a tool to detect errors and potential problems in JavaScript code.
+
+## CSS
+
+- [CSS3.info](http://www.css3.info/): All you ever needed to know about CSS3
+- [CSS3 Please](http://css3please.com/): The Cross-Browser CSS3 Rule Generator
+
 ## Editors
 
 ### Sublime Text 2
 
+Install and use [Sublime Text 2 Package Control](http://wbond.net/sublime_packages/package_control) for these and other plugins.
+
+- ★ [ZenCoding](https://github.com/sublimator/ZenCoding): editor plugin for high-speed HTML coding and editing
 - ★ [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview): A simple plugin to help you preview your **markdown** files; works with _LiveReload_.
 - ★ [LiveReload](https://github.com/dz0ny/LiveReload-sublimetext2): A web browser page reloading plugin.
+- ★ [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements): Enhancements to Sublime Text sidebar. Files and folders.
+- ★ [SublimeREPL](https://github.com/wuub/SublimeREPL):run an interpreter inside ST2
+- ★ [Git](https://github.com/kemayo/sublime-text-2-git): Plugin for some git integration
+- ★ [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter): Inline lint highlighting
+- ★ [JsFormat](https://github.com/jdc0589/JsFormat): javascipt formatting plugin (prettifier)
+- [Sublime Prefixr](http://wbond.net/sublime_packages/prefixr): run CSS through the [Prefixr](http://prefixr.com/) API
+- [Search StackOverflow](https://github.com/ericmartel/Sublime-Text-2-Stackoverflow-Plugin): Simple search on Stack Overflow utility
+
+#### Themes (TextMate or SublimeText)
+
+- [NodeJS](http://textmatetheme.com/node-js): dark
+- [Tomorrow](https://github.com/chriskempson/tomorrow-theme): multiple, dark/light
+- [Django](https://code.djangoproject.com/attachment/wiki/TextMate/Django.tmTheme.zip): dark green
 
 ## Education
 
-- (CodeAcademy)
+- [CodeAcademy](http://www.codecademy.com/): the easiest way to learn to code. It's interactive, fun, and you can do it with your friends.
+- [NCZOnline: 'Computer Science'](http://www.nczonline.net/blog/tag/computer-science/): Nicholas C. Zakas presents computer science concepts using JavaScript as language of choice
+- [Stanford OpenClassroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php): Full courses. Short Videos. Free for everyone.
+
+## Design
+
+
+### Typography
+
+- [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/): A showcase of the best typefaces from the Google web fonts directory.
+
+### Textures
+
+- [Noise Texture Generator](http://www.noisetexturegenerator.com/)
+
+### Icons
+
+- ★ [FontAwesome](http://fortawesome.github.com/Font-Awesome/): The iconic font designed for use with Twitter Bootstrap
+- [IconSweets](http://iconsweets2.com/): a huge FREE icon set containing over a 1,000+ icon
+- [Glyphicons](http://glyphicons.com/): designed primarily for toolbars and navigation bars in OS X Lion, the application for iPhone, iPhone 4, iPad and other Apple devices. (CC license)
+- [Glyphish](http://www.glyphish.com/): Free set published under a Creative Commons Attribution license
+- [FamFamFam](http://www.famfamfam.com/lab/icons/): oldie, but goodie
+- [LED Icon Set](http://led24.de/iconset/): .png icons make a professionally looking small icon set and are totally free in commercial and open source apps / websites.
+- [Fugue Icons](http://p.yusukekamiyamane.com/): 3,480 icons are included in PNG format (16x16 pixels) + bonus. (CC license)
+
+#### Favicons
+
+- [Piecon](http://lipka.github.com/piecon/): Pie charts in your favicon!
+
+## General
+
+- [DocHub](http://dochub.io/): Alternative documentation repository for: CSS, HTML, JavaScript, DOM, jQuery, PHP, Python
+
+### Build Tools, Assemblers, et al
+
+- ★ [Brunch](http://brunch.io/): A lightweight approach to building HTML5 applications with an emphasis on elegance and simplicity.
+- ★ [Grunt](http://gruntjs.com/): a task-based command line build tool for JavaScript projects
+- [Yeoman](http://yeoman.io/): Why, hello! I'm Yeoman — a robust and opinionated client-side stack, comprised of tools and frameworks that can help developers quickly build beautiful web applications.
+- [LiveReload](http://livereload.com/): CSS edits and image changes apply live. CoffeeScript, SASS, LESS and others just work. (OSX only)
+- [CodeKit](http://incident57.com/codekit/): CodeKit helps you build websites faster and better. (OSX only)
+- [Lumbar](http://walmartlabs.github.com/lumbar/): Lumbar is a js-build tool that takes a general codebase and list of platforms to generate modular platform specific applications. (from Walmart Labs)
+
+## Misc.
+
+- [FontBomb](http://fontbomb.ilex.ca/): To blow up other websites, drag and drop this link fontBomb to your favorites bar
+
+## HTTP
+
+- [Hypertext Transfer Protocol -- HTTP/1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html): you should read through it at least once
