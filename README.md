@@ -47,6 +47,7 @@ _"★" recommended and currently used by the maintainer_
 - [Modernizr](http://modernizr.com/): detects HTML5 and CSS3 features in the user’s browser.
 - [Underscore](http://underscorejs.org/): JavaScript utility belt
 - [JSON3](http://bestiejs.github.com/json3/): JSON parser/stringifier
+- [Idiomatic JS](https://github.com/rwldrn/idiomatic.js)
 
 ### jQuery
 
