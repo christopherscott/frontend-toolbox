@@ -47,7 +47,15 @@ _"★" recommended and currently used by the maintainer_
 - [Modernizr](http://modernizr.com/): detects HTML5 and CSS3 features in the user’s browser.
 - [Underscore](http://underscorejs.org/): JavaScript utility belt
 - [JSON3](http://bestiejs.github.com/json3/): JSON parser/stringifier
-- [Idiomatic JS](https://github.com/rwldrn/idiomatic.js)
+- [Idiomatic JS](https://github.com/rwldrn/idiomatic.js): Principles of Writing Consistent, Idiomatic JavaScript
+- [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/): growing collection of documentation about the most quirky parts JavaScript
+
+### Books
+
+- [JavaScript:The Definitive Guide](http://shop.oreilly.com/product/9780596805531.do)
+- [JavaScript Patterns](http://shop.oreilly.com/product/9780596806767.do)
+- [Maintainable JavaScript](http://shop.oreilly.com/product/0636920025245.do)
+- [JavaScript Web Application](http://www.amazon.com/JavaScript-Web-Applications-Alex-MacCaw/dp/144930351X)
 
 ### jQuery
 
