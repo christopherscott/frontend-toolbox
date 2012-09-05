@@ -87,6 +87,7 @@ Tools to detect errors (syntactic, semantic, otherwise) and potential problems i
 
 - [Backbone.js](http://documentcloud.github.com/backbone)
   - [Backbone Fundamentals](http://addyosmani.github.com/backbone-fundamentals/)
+  - [Backbone Koans](https://github.com/larrymyers/backbone-koans)
 - [Ember.js](http://emberjs.com)
 - [AngularJS](http://angularjs.org)
 - [Spine](http://spinejs.com)
