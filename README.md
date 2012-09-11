@@ -29,6 +29,7 @@ _"★" recommended and currently used by the maintainer_
 #### UI Toolkits
 
 - [Twiter Bootstrap](http://twitter.github.com/bootstrap/)
+  - [Compass Twitter Bootstrap](https://github.com/vwall/compass-twitter-bootstrap)
 - [jQuery UI](http://jqueryui.com/demos/)
 
 ### Documentation
@@ -81,6 +82,8 @@ _"★" recommended and currently used by the maintainer_
 ### [Transcompilation](http://en.wikipedia.org/wiki/Source-to-source_compiler) Languages
 
 - ★[CoffeeScript](http://coffeescript.org/): a little language that compiles into JavaScript
+  - [Little Book on CoffeeScript](http://arcturo.github.com/library/coffeescript/)
+  - [CoffeeScript Tutorials](http://www.youtube.com/playlist?list=PL399DF0B74063889F&feature=plcp)
 - [IcedCoffeeScript](http://maxtaco.github.com/coffee-script/): drop-in replacement interpreter for CoffeeScript with **async control flow semantics**.
 - [LiveScript](http://gkz.github.com/LiveScript/): aims for increased expressiveness and code beauty, while adding features to assist in functional style programming, imperative and object oriented programming, and has an optional class system with inheritance, calls to super, and more.
 - [Roy](http://roy.brianmckenna.org/): an experimental programming language that targets JavaScript and tries to meld JavaScript semantics with some features common in static functional languages.
@@ -146,8 +149,12 @@ Tools to detect errors (syntactic, semantic, otherwise) and potential problems i
 - [Stylus](http://learnboost.github.com/stylus/): Expressive, dynamic, robust CSS
   - [Nib](https://github.com/visionmedia/nib)
 - [Sass](http://sass-lang.com/): Sass is an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more.
+  - [SASS Tutorials](http://www.youtube.com/playlist?list=PL2CB1F80266E986EA&feature=plcp)
   - [Compass](http://compass-style.org/): Compass is an open-source CSS Authoring Framework.
+    - [Compass Tutorials](http://www.youtube.com/playlist?list=PL45DD77A4CCA76ED3&feature=plcp)
+    - [Compass Twitter Bootstrap](https://github.com/vwall/compass-twitter-bootstrap)
   - [Susy](http://susy.oddbird.net/):Responsive grids for Compass.
+  compas
 
 ## Editors
 
