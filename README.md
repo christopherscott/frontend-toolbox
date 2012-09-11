@@ -39,7 +39,9 @@ _"★" recommended and currently used by the maintainer_
 - ★ [Docco](http://jashkenas.github.com/docco/): Quick and dirty, literate-programming documenation generator
 - [Groc](http://nevir.github.com/groc/): is an attempt to further enhance the idea [of Docco]
 
-### Build Tools, Assemblers, et al
+### Total process build tools, Assemblers, et al
+
+Should this be merged with 'JavaScript Build Tools' section below? 
 
 - ★ [Yeoman](http://yeoman.io/): a robust and opinionated client-side stack, comprised of tools and frameworks that can help developers quickly build beautiful web applications.
 - ★ [Brunch](http://brunch.io/): A lightweight approach to building HTML5 applications with an emphasis on elegance and simplicity.
@@ -51,6 +53,8 @@ _"★" recommended and currently used by the maintainer_
 
 ## JavaScript
 
+Should this be merged with 'Total process build Tools' section above? 
+
 - [Modernizr](http://modernizr.com/): detects HTML5 and CSS3 features in the user’s browser.
 - [Underscore](http://underscorejs.org/): JavaScript utility belt
 - [JSON3](http://bestiejs.github.com/json3/): JSON parser/stringifier
@@ -58,6 +62,11 @@ _"★" recommended and currently used by the maintainer_
 - [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/): growing collection of documentation about the most quirky parts JavaScript
 
 - [PhantomJS](http://phantomjs.org/): Headless WebKit with JavaScript API
+
+### Build tools
+
+- [UglifyJS](https://github.com/mishoo/UglifyJS): js minifier, beautifier
+- [r.js (RequireJS optimizer)](https://github.com/jrburke/r.js/)
 
 ### Modules and Script loaders
 
@@ -100,9 +109,10 @@ _"★" recommended and currently used by the maintainer_
 
 ### Testing
 
-- [Jasmine](http://pivotal.github.com/jasmine/)
-- [Mocha](http://visionmedia.github.com/mocha/)
-- [QUnit](http://docs.jquery.com/QUnit)
+- [Jasmine](http://pivotal.github.com/jasmine/) 
+- [Mocha](http://visionmedia.github.com/mocha/) new, trendy, lightweight
+- [QUnit](http://docs.jquery.com/QUnit) j-unit inspired (i think)
+- [Vows](http://vowsjs.org/) async BDD
 
 - [JSTestDriver](http://code.google.com/p/js-test-driver/) remote, automated testing of javascript on different browsers
   - [Jasmine JSTD](https://github.com/ibolmo/jasmine-jstd-adapter) adapter for using Jasmine
