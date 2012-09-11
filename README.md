@@ -25,6 +25,8 @@ _"★" recommended and currently used by the maintainer_
 - [When can I use...](http://caniuse.com/): Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers.
 - [HTML5 & CSS3 Readiness](http://html5readiness.com/): We don't have to wait for entire specs to be completed, we can start using some hawtness now.
 - [HTML5 Please](http://html5please.com/): Use the new and shiny responsibly.
+- [HTML5 Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
+
 
 #### UI Toolkits
 
@@ -55,6 +57,18 @@ _"★" recommended and currently used by the maintainer_
 - [Idiomatic JS](https://github.com/rwldrn/idiomatic.js): Principles of Writing Consistent, Idiomatic JavaScript
 - [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/): growing collection of documentation about the most quirky parts JavaScript
 
+- [PhantomJS](http://phantomjs.org/): Headless WebKit with JavaScript API
+
+### Modules and Script loaders
+
+- [RequireJS](http://requirejs.org/) The awesomest AMD script loader
+- [LabJS](http://labjs.com/) script loader
+- [YepNope](http://yepnopejs.com/) conditional loader for polyfills
+
+- [Bower](http://twitter.github.com/bower/) package manager for the web
+- [Volo](https://github.com/volojs/volo) Create front end projects from templates, add dependencies, and automate the resulting projects
+- [Ender](http://ender.no.de/) the no-library library
+
 ### Books
 
 - [JSbooks](http://jsbooks.revolunet.com/): crazy collection of free JS books
@@ -79,6 +93,30 @@ _"★" recommended and currently used by the maintainer_
 - [FormatCurrency](http://code.google.com/p/jquery-formatcurrency/)
 - [MaskedInput](http://digitalbush.com/projects/masked-input-plugin/)
 
+### Mobile
+
+- [Zepto](http://zeptojs.com/)
+- [jQuery Mobile](http://jquerymobile.com/)
+
+### Testing
+
+- [Jasmine](http://pivotal.github.com/jasmine/)
+- [Mocha](http://visionmedia.github.com/mocha/)
+- [QUnit](http://docs.jquery.com/QUnit)
+
+- [JSTestDriver](http://code.google.com/p/js-test-driver/) remote, automated testing of javascript on different browsers
+  - [Jasmine JSTD](https://github.com/ibolmo/jasmine-jstd-adapter) adapter for using Jasmine
+
+- [SinonJS](http://sinonjs.org/)
+- [Chai](http://chaijs.com/): assertions lib
+  - *should*: foo.should.be.a('string')
+  - *expect*: expect(foo).to.be.a('string')
+  - *assert*: assert.typeof(foo, 'string')
+
+- [should.js](https://github.com/visionmedia/should.js) 'should' style assertions
+- [expect.js](https://github.com/LearnBoost/expect.js) 'expect' style assertions
+
+
 ### [Transcompilation](http://en.wikipedia.org/wiki/Source-to-source_compiler) Languages
 
 - ★[CoffeeScript](http://coffeescript.org/): a little language that compiles into JavaScript
@@ -101,48 +139,36 @@ Tools to detect errors (syntactic, semantic, otherwise) and potential problems i
 - [Backbone.js](http://documentcloud.github.com/backbone)
   - [Backbone Fundamentals](http://addyosmani.github.com/backbone-fundamentals/)
   - [Backbone Koans](https://github.com/larrymyers/backbone-koans)
+  - [Marionette](http://marionettejs.com/): composite app architecture on top of backbone
+  - [Chaplin](https://github.com/chaplinjs/chaplin): application architecture
+  - [Backbone LocalStorage](https://github.com/jeromegn/Backbone.localStorage)
 - [Ember.js](http://emberjs.com)
 - [AngularJS](http://angularjs.org)
 - [Spine](http://spinejs.com)
 - [KnockoutJS](http://knockoutjs.com) (MVVM)
-- [Dojo](http://dojotoolkit.org)
 - [YUI](http://yuilibrary.com)
 - [Batman.js](http://batmanjs.org)
 - [Closure](http://code.google.com/closure/library/)
-- [Agility.js](http://agilityjs.com)
-- [Knockback.js](http://kmalakoff.github.com/knockback)
 - [Google Web Toolkit](https://developers.google.com/web-toolkit/)
 - [CanJS](http://canjs.us)
-- [Maria.js](https://github.com/petermichaux/maria)
-- [cujo.js](http://cujojs.github.com)
 - [Meteor](http://meteor.com)
 - [Derby](http://derbyjs.com)
 - [SocketStream](http://www.socketstream.org) + [jQuery](http://jquery.com)
 - [Ext.js](http://www.sencha.com/products/extjs)
-- [Sammy.js](http://sammyjs.org)
 - [JavaScriptMVC](http://javascriptmvc.com)
-- [Stapes.js](http://hay.github.com/stapes)
-- [Epitome](http://dimitarchristoff.github.com/Epitome)
-- [TroopJS](https://github.com/troopjs)
-- [soma.js](http://somajs.github.com/somajs)
-- [DUEL](https://bitbucket.org/mckamey/duel/wiki/Home)
-- [Fidel](https://github.com/jgallen23/fidel)
-- [Olives](https://github.com/flams/olives)
-- [PlastronJS](https://github.com/rhysbrettbowen/PlastronJS)
-- [Dijon](https://github.com/creynders/dijon-framework)
-- [rAppid.js](http://www.rappidjs.com)
-- [o_O](http://weepy.github.com/o_O)
-- [Fun](https://github.com/marcuswestin/fun)
-- [KnockoutJS](http://knockoutjs.com) + [RequireJS](http://requirejs.org) (using AMD)
-- [AngularJS](http://angularjs.org) + [RequireJS](http://requirejs.org) (using AMD)
-- [AngularJS](http://angularjs.org) (optimized)
-- [Backbone.xmpp](https://github.com/ggozad/Backbone.xmpp)
+
+- [RivetsJS](https://github.com/mikeric/rivets) declarative data-binding; framework agnostic
+
+- _there's lots more but, comon.... they're not as good :)_
 
 ## CSS
 
 - [CSS3.info](http://www.css3.info/): All you ever needed to know about CSS3
 - [CSS3 Please](http://css3please.com/): The Cross-Browser CSS3 Rule Generator
 - [Semantic Grid System](http://semantic.gs/): Page layout for tomorrow (SCSS, LESS, Stylus)
+
+### Linters
+  - [Recess](http://twitter.github.com/recess/) Twitter's CSS hinter
 
 ### Preprocessors
 
