@@ -56,6 +56,7 @@ _"★" recommended and currently used by the maintainer_
 
 ### Books
 
+- [JSbooks](http://jsbooks.revolunet.com/): crazy collection of free JS books
 - [JavaScript:The Definitive Guide](http://shop.oreilly.com/product/9780596805531.do)
 - [JavaScript Patterns](http://shop.oreilly.com/product/9780596806767.do)
 - [Maintainable JavaScript](http://shop.oreilly.com/product/0636920025245.do)
