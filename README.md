@@ -27,6 +27,19 @@ _"★" recommended and currently used by the maintainer_
 - [HTML5 Please](http://html5please.com/): Use the new and shiny responsibly.
 - [HTML5 Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 
+## Charts/graphs/visualization/reporting
+
+- [flot](http://www.flotcharts.org/) Attractive JavaScript plotting for jQuery
+- [flotr2](http://www.humblesoftware.com/flotr2/) Graphs and Charts for Canvas in JavaScript.
+- [gRaphael](http://g.raphaeljs.com/) SVG charts
+- [RGraph](http://www.rgraph.net/) interactive Javascript charts and graphs for your website using the HTML5 canvas tag
+- [Sencha Touch Charts](http://www.sencha.com/products/touch/charts/) - paid
+- [HighCharts](http://www.highcharts.com/) - paid
+- [dygraphs](http://dygraphs.com/)
+- [ZingChart](http://www.zingchart.com/)
+- [Fusion Charts](http://www.fusioncharts.com/)
+- [MilkCharts](http://mootools.net/forge/p/milkchart) for MooTools weirdos
+- [Google Chart Tools](https://developers.google.com/chart/) API based
 
 #### UI Toolkits
 
