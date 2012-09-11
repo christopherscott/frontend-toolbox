@@ -22,10 +22,14 @@ _"★" recommended and currently used by the maintainer_
 - [Hypertext Transfer Protocol -- HTTP/1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html): you should read through it at least once
 - [ReFiddle](http://refiddle.com/): Regular Expression (regex) tester... better than the rest
 ### Compatibility
-
 - [When can I use...](http://caniuse.com/): Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers.
 - [HTML5 & CSS3 Readiness](http://html5readiness.com/): We don't have to wait for entire specs to be completed, we can start using some hawtness now.
 - [HTML5 Please](http://html5please.com/): Use the new and shiny responsibly.
+
+#### UI Toolkits
+
+- [Twiter Bootstrap](http://twitter.github.com/bootstrap/)
+- [jQuery UI](http://jqueryui.com/demos/)
 
 ### Documentation
 
@@ -34,10 +38,10 @@ _"★" recommended and currently used by the maintainer_
 
 ### Build Tools, Assemblers, et al
 
+- ★ [Yeoman](http://yeoman.io/): a robust and opinionated client-side stack, comprised of tools and frameworks that can help developers quickly build beautiful web applications.
 - ★ [Brunch](http://brunch.io/): A lightweight approach to building HTML5 applications with an emphasis on elegance and simplicity.
 - ★ [Middleman](http://middlemanapp.com/): a static site generator using all the shortcuts and tools in modern web development.
 - ★ [Grunt](http://gruntjs.com/): a task-based command line build tool for JavaScript projects
-- ★ [Yeoman](http://yeoman.io/): a robust and opinionated client-side stack, comprised of tools and frameworks that can help developers quickly build beautiful web applications.
 - [LiveReload](http://livereload.com/): CSS edits and image changes apply live. CoffeeScript, SASS, LESS and others just work. (OSX only)
 - [CodeKit](http://incident57.com/codekit/): CodeKit helps you build websites faster and better. (OSX only)
 - [Lumbar](http://walmartlabs.github.com/lumbar/): Lumbar is a js-build tool that takes a general codebase and list of platforms to generate modular platform specific applications. (from Walmart Labs)
@@ -67,6 +71,11 @@ _"★" recommended and currently used by the maintainer_
 - [jQuery](http://jquery.com/): Write less; do more.
 - [Zepto](http://zeptojs.com/): jQuery alternative for mobile apps (super light-weight)
 - [jQAPI](http://jqapi.com/): Alternative jQuery Documentation
+
+#### Useful jQuery Plugins
+
+- [FormatCurrency](http://code.google.com/p/jquery-formatcurrency/)
+- [MaskedInput](http://digitalbush.com/projects/masked-input-plugin/)
 
 ### [Transcompilation](http://en.wikipedia.org/wiki/Source-to-source_compiler) Languages
 
