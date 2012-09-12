@@ -230,10 +230,15 @@ Tools to detect errors (syntactic, semantic, otherwise) and potential problems i
 - [Plates](https://github.com/flatiron/plates)
 - [Transparency](http://leonidas.github.com/transparency/)
 
-
-
 - [Template Chooser](http://garann.github.com/template-chooser/)
-- []
+
+### Quizzes
+
+- [PerfectionKills JS Quiz](http://perfectionkills.com/javascript-quiz/)
+- [So You Think You Know JavaScript](http://dmitry.baranovskiy.com/post/so-you-think-you-know-javascript)
+- [Rebecca Murphey's Challenge](https://gist.github.com/576723)
+- [NetTuts Quiz: jQuery Basics](http://net.tutsplus.com/articles/quizzes/nettuts-quiz-jquery-basics/?search_index=1)
+- [NetTuts Quiz: JavaScript](http://net.tutsplus.com/articles/quizzes/nettuts-quiz-3-javascript/?search_index=3)
 
 ## CSS
 
