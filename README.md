@@ -4,6 +4,7 @@ Actively maintained list of useful web developments tools, libraries, assets and
 
 Shamelessly aggregated from the following resources:
 
+- [A Baseline For Frontend Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
 - [Brunch plugin wiki](https://github.com/brunch/brunch/wiki/Plugins)
 - [Tooling & The Webapp Development Stack](https://gist.github.com/2713513): Notes from a talk by Paul Irish
 - [DailyJS](http://dailyjs.com/): Excellent JavaScript blog
@@ -27,9 +28,23 @@ _"★" recommended and currently used by the maintainer_
 - [HTML5 Please](http://html5please.com/): Use the new and shiny responsibly.
 - [HTML5 Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 
+## Runtimes
+
+- [Ruby Installer for Windows](http://rubyinstaller.org/)
+- [NodeJS](http://nodejs.org/) win/linux/osx
+- [HomeBrew](http://mxcl.github.com/homebrew/) missing package manager for OSX
+
+## Debugging
+
+- [Chrome Developer Tools](https://developers.google.com/chrome-developer-tools/) for chrome
+- [Firebug](http://getfirebug.com/) for firefox
+- [DragonFly](http://my.opera.com/dragonfly/blog/) for opera
+
+- [Fixing These jQuery](http://fixingthesejquery.com/) how to debugger to debug jquery
+
 ## Charts/graphs/visualization/reporting
 
-- [flot](http://www.flotcharts.org/) Attractive JavaScript plotting for jQuery
+- ★[flot](http://www.flotcharts.org/) Attractive JavaScript plotting for jQuery
 - [flotr2](http://www.humblesoftware.com/flotr2/) Graphs and Charts for Canvas in JavaScript.
 - [gRaphael](http://g.raphaeljs.com/) SVG charts
 - [RGraph](http://www.rgraph.net/) interactive Javascript charts and graphs for your website using the HTML5 canvas tag
@@ -44,7 +59,7 @@ _"★" recommended and currently used by the maintainer_
 #### UI Toolkits
 
 - [Twiter Bootstrap](http://twitter.github.com/bootstrap/)
-  - [Compass Twitter Bootstrap](https://github.com/vwall/compass-twitter-bootstrap)
+  - ★[Compass Twitter Bootstrap](https://github.com/vwall/compass-twitter-bootstrap)
 - [jQuery UI](http://jqueryui.com/demos/)
 
 ### Documentation
@@ -59,17 +74,16 @@ Should this be merged with 'JavaScript Build Tools' section below?
 - ★ [Yeoman](http://yeoman.io/): a robust and opinionated client-side stack, comprised of tools and frameworks that can help developers quickly build beautiful web applications.
 - ★ [Brunch](http://brunch.io/): A lightweight approach to building HTML5 applications with an emphasis on elegance and simplicity.
 - ★ [Middleman](http://middlemanapp.com/): a static site generator using all the shortcuts and tools in modern web development.
-- ★ [Grunt](http://gruntjs.com/): a task-based command line build tool for JavaScript projects
-- [LiveReload](http://livereload.com/): CSS edits and image changes apply live. CoffeeScript, SASS, LESS and others just work. (OSX only)
-- [CodeKit](http://incident57.com/codekit/): CodeKit helps you build websites faster and better. (OSX only)
 - [Lumbar](http://walmartlabs.github.com/lumbar/): Lumbar is a js-build tool that takes a general codebase and list of platforms to generate modular platform specific applications. (from Walmart Labs)
+
+- [LiveReload](http://livereload.com/): CSS edits and image changes apply live. CoffeeScript, SASS, LESS and others just work. (OSX app only)
+- [CodeKit](http://incident57.com/codekit/): CodeKit helps you build websites faster and better. (OSX app only)
 
 ## JavaScript
 
-Should this be merged with 'Total process build Tools' section above? 
-
 - [Modernizr](http://modernizr.com/): detects HTML5 and CSS3 features in the user’s browser.
 - [Underscore](http://underscorejs.org/): JavaScript utility belt
+  - [lodash](https://github.com/bestiejs/lodash): same api, but faster, and more trendy
 - [JSON3](http://bestiejs.github.com/json3/): JSON parser/stringifier
 - [Idiomatic JS](https://github.com/rwldrn/idiomatic.js): Principles of Writing Consistent, Idiomatic JavaScript
 - [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/): growing collection of documentation about the most quirky parts JavaScript
@@ -78,7 +92,9 @@ Should this be merged with 'Total process build Tools' section above?
 
 ### Build tools
 
+- ★ [Grunt](http://gruntjs.com/): a task-based command line build tool for JavaScript projects
 - [UglifyJS](https://github.com/mishoo/UglifyJS): js minifier, beautifier
+- [Closure Compiler](https://developers.google.com/closure/compiler/)
 - [r.js (RequireJS optimizer)](https://github.com/jrburke/r.js/)
 
 ### Modules and Script loaders
@@ -109,6 +125,8 @@ Should this be merged with 'Total process build Tools' section above?
 - [jQuery](http://jquery.com/): Write less; do more.
 - [Zepto](http://zeptojs.com/): jQuery alternative for mobile apps (super light-weight)
 - [jQAPI](http://jqapi.com/): Alternative jQuery Documentation
+- [10 Things I Learned From the jQuery Source](http://paulirish.com/2010/10-things-i-learned-from-the-jquery-source/)
+- [jQuery Fundamentals](http://jqfundamentals.com/) Massively awesome online course/ebook
 
 #### Useful jQuery Plugins
 
@@ -183,6 +201,29 @@ Tools to detect errors (syntactic, semantic, otherwise) and potential problems i
 - [RivetsJS](https://github.com/mikeric/rivets) declarative data-binding; framework agnostic
 
 - _there's lots more but, comon.... they're not as good :)_
+
+### Templates
+
+- [Google Closure Templates](http://code.google.com/closure/templates/)
+- [Mustache](https://github.com/janl/mustache.js/)
+- [Handlebars](http://handlebarsjs.com/) as featured in Ember
+- [DustJS](http://akdubya.github.com/dustjs/)
+- [HoganJS](http://twitter.github.com/hogan.js/) super lightweight, mustache-compatible
+- [Jade Templates](https://github.com/visionmedia/jade) as featured in Express/Node
+- [EJS](http://embeddedjs.com/) like ERB but for javascript
+- [Underscore Templates](http://documentcloud.github.com/underscore/#template)
+- [MicroTemplating](http://ejohn.org/blog/javascript-micro-templating/)
+- [ICanHazJS](http://icanhazjs.com/)
+- [DomJs](https://github.com/medikoo/domjs)
+- [DotJS](http://olado.github.com/doT/)
+- [JsRender](http://borismoore.github.com/jsrender/demos/index.html)
+- [Plates](https://github.com/flatiron/plates)
+- [Transparency](http://leonidas.github.com/transparency/)
+
+
+
+- [Template Chooser](http://garann.github.com/template-chooser/)
+- []
 
 ## CSS
 
