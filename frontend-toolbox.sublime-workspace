@@ -1,0 +1,818 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for	for (…) {…}"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/Node.sublime-build",
+	"command_palette":
+	{
+		"height": 49.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"disb",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"set j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"lore	",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lin",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"git:pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"git:push",
+				"Git: Push"
+			],
+			[
+				"git: comm",
+				"Git: Commit"
+			],
+			[
+				"git:add",
+				"Git: Add Current File"
+			],
+			[
+				"git:statu",
+				"Git: Status"
+			],
+			[
+				"dia",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"lint",
+				"SublimeLinter: Save-Only Linting"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"gitadd",
+				"Git: Add..."
+			],
+			[
+				"git:commit",
+				"Git: Commit"
+			],
+			[
+				"prefi",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"prefix",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"stack",
+				"Stackoverflow: Search from Input"
+			],
+			[
+				"clip",
+				"Clipboard History"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 418.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/chris/dev/frontend-toolbox/.gitignore",
+		"/Users/chris/dev/frontend-toolbox/README.md",
+		"/Users/chris/Downloads/h5bp-html5-boilerplate-2279296/index.html",
+		"/usr/local/bin/brunch",
+		"/usr/local/lib/node_modules/brunch/bin/brunch",
+		"/usr/local/lib/node_modules/brunch/lib/cli.js",
+		"/Users/chris/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/chris/Library/Application Support/Sublime Text 2/Packages/ZenCoding/Default.sublime-keymap",
+		"/Users/chris/www/starter-kit/index.html",
+		"/Users/chris/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/chris/www/ember-starter-kit/index.html",
+		"/Users/chris/www/ember-starter-kit/js/app.js",
+		"/Users/chris/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/chris/dev/angular-phonecat/app/js/app.js",
+		"/Users/chris/dev/angular-phonecat/app/js/filters.js",
+		"/Users/chris/dev/angular-phonecat/app/js/controllers.js",
+		"/Users/chris/dev/angular-phonecat/app/partials/phone-detail.html",
+		"/Users/chris/dev/angular-phonecat/scripts/web-server.js",
+		"/Users/chris/dev/angular-phonecat/app/index.html",
+		"/Users/chris/dev/angular-phonecat/test/unit/controllersSpec.js",
+		"/Users/chris/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/chris/dev/angular-phonecat/scripts/test.sh",
+		"/Users/chris/dev/angular-phonecat/config/jsTestDriver.conf",
+		"/Users/chris/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/chris/haygroup-mba/notes.md",
+		"/Users/chris/Desktop/p2-viewer-js.js",
+		"/Users/chris/www/jsapi-mess/index.html",
+		"/Users/chris/Desktop/jquery-7.js",
+		"/Users/chris/Desktop/jquery-1.8.0.min.js",
+		"/Users/chris/Library/Application Support/Firefox/Profiles/46opf0ql.default/gm_scripts/ios_run_from_home_screen/ios_run_from_home_screen.user.js",
+		"/Users/chris/www/load.html",
+		"/Users/chris/Desktop/standalone.js",
+		"/Users/chris/Downloads/vanilla.js",
+		"/Users/chris/Downloads/jquery.mobile.custom/jquery.mobile.custom.structure.css",
+		"/Users/chris/Downloads/jquery.mobile.custom/jquery.mobile.custom.js",
+		"/Users/chris/Downloads/mobile_website/my.js",
+		"/Users/chris/Downloads/mobile_website/my.css",
+		"/Users/chris/dev/zoo/rails/rails-backbone-reference/app/assets/stylesheets/scaffolds.css.scss",
+		"/Users/chris/www/steepr/app/view/Main.js",
+		"/Users/chris/www/steepr/resources/sass/app.scss",
+		"/etc/hosts",
+		"/Users/chris/www/steepr/app/view/TeaSelector.js",
+		"/Users/chris/www/steepr/app.js",
+		"/Users/chris/Desktop/toc-tab-mismatch.txt",
+		"/etc/apache2/httpd.conf",
+		"/Users/chris/Downloads/XLSTabName/XLSTabNameByData.rptdesign",
+		"/Users/chris/www/webRTC.html",
+		"/Users/chris/Desktop/front-end-decision-points.md",
+		"/Users/chris/Downloads/boilerplate/index.html",
+		"/Users/chris/dev/zoo/web/webRTC.html",
+		"/Users/chris/Library/Application Support/Sublime Text 2/Packages/User/Node.sublime-build",
+		"/Users/chris/Desktop/sass.scss",
+		"/Users/chris/Desktop/shadows.html",
+		"/Users/chris/bashrc_dispatch/colors.sh",
+		"/Users/chris/bashrc_dispatch/bashrc_interactive.sh",
+		"/Users/chris/bashrc_dispatch/init.sh",
+		"/Users/chris/bashrc_dispatch/bashrc_login.sh",
+		"/Users/chris/old_bash/.profile",
+		"/Users/chris/old_bash/.bashrc",
+		"/Users/chris/bashrc_dispatch/bashrc_all.sh",
+		"/Users/chris/bashrc_dispatch/bashrc_script.sh",
+		"/Users/chris/.profile.d/init",
+		"/Users/chris/bashrc_dispatch/git-completion.sh",
+		"/Users/chris/bashrc_dispatch/reactive-prompt.sh",
+		"/Users/chris/bashrc_dispatch/reactive-prompt.conf",
+		"/Users/chris/bashrc_dispatch/.bashrc_all",
+		"/Users/chris/dev/cscott-current-rails/config/deploy.rb",
+		"/Users/chris/dev/request-dump/config/deploy.rb",
+		"/Users/chris/dev/learning-compass-sass/sass/mixins.scss",
+		"/Users/chris/dev/bruncher/app/views/templates/header.hbs",
+		"/Users/chris/dev/learning-compass-sass/sass/screen.scss",
+		"/Users/chris/dev/zoo/jquery/index.html",
+		"/Users/chris/www/learning-st/app.js",
+		"/Users/chris/dev/zoo/javascript/design-patterns/singleton.js",
+		"/Users/chris/dev/cscott-v6/views/index.jade",
+		"/Users/chris/dev/cscott-v6/models/Tags.coffee",
+		"/Users/chris/dev/cscott-v6/models/model.coffee",
+		"/Users/chris/dev/cscott-v6/models/post.coffee",
+		"/Users/chris/dev/zoo/jquery/highlight-str.html",
+		"/Users/chris/dev/zoo/javascript/BinarySearchTree.js",
+		"/Users/chris/dev/zoo/javascript/CCValidation.js",
+		"/Users/chris/dev/zoo/javascript/closures.js",
+		"/Users/chris/dev/zoo/javascript/backbone-relations.js",
+		"/Users/chris/dev/cscott-current-rails/Capfile",
+		"/Users/chris/.profile",
+		"/Users/chris/dev/zoo/web/style.scss",
+		"/Users/chris/dev/cscott-v6/routes/index.coffee",
+		"/Users/chris/dev/cscott-v6/app.coffee",
+		"/Users/chris/dev/cscott-v6/node_modules/chai/chai.js",
+		"/Users/chris/dev/cscott-v6/app.js",
+		"/Users/chris/dev/cscott-v6/spec/routes_spec.coffee",
+		"/Users/chris/dev/cscott-v6/spec/integration_spec.coffee",
+		"/Users/chris/dev/cscott-v6/routes/posts.js",
+		"/Users/chris/dev/cscott-v6/package.json",
+		"/Users/chris/Desktop/untitled.py",
+		"/Users/chris/dev/cscott-v6/public/stylesheets/style.styl",
+		"/Users/chris/Desktop/test.coffee",
+		"/Users/chris/dev/cscott-v6/public/js/application.js",
+		"/Users/chris/dev/cscott-v6/views/about.jade",
+		"/Users/chris/dev/express-integration-testing/spec/integration.coffee",
+		"/Users/chris/dev/cscott-v6/views/index.ejs",
+		"/Users/chris/Desktop/favorite-fonts.txt",
+		"/Users/chris/design/history-of-type.txt",
+		"/Users/chris/dev/cscott-v6/spec/integration",
+		"/Users/chris/Library/Application Support/Sublime Text 2/Packages/nodejs.tmtheme",
+		"/Users/chris/dev/zoo/javascript/Base64.js",
+		"/Users/chris/dev/coffeeScriptSyntax.coffee",
+		"/Users/chris/dev/coffeescript-snippets.coffee",
+		"/Users/chris/dev/helloWorld/app.js",
+		"/Users/chris/dev/helloWorld/something.coffee",
+		"/Users/chris/dev/express-integration-testing/routes/index.js",
+		"/Users/chris/Library/Application Support/Sublime Text 2/Packages/User/coffeescript_print.sublime-build",
+		"/Users/chris/dev/mocha-chai-coffeescript/test/taskTest.coffee",
+		"/Users/chris/dev/mocha-chai-coffeescript/test/taskTestc.coffee",
+		"/Users/chris/dev/sample_app/spec/support/utilities.rb",
+		"/Users/chris/dev/sample_app/app/models/user.rb",
+		"/Users/chris/dev/sample_app/app/controllers/application_controller.rb",
+		"/Users/chris/dev/sample_app/app/controllers/static_pages_controller.rb",
+		"/Users/chris/dev/sample_app/app/views/users/edit.html.erb",
+		"/Users/chris/dev/sample_app/app/helpers/sessions_helper.rb",
+		"/Users/chris/dev/sample_app/app/controllers/sessions_controller.rb",
+		"/Users/chris/dev/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/Users/chris/dev/sample_app/app/views/layouts/_header.html.erb",
+		"/Users/chris/dev/sample_app/Gemfile",
+		"/Users/chris/dev/sample_app/app/views/users/index.html.erb",
+		"/Users/chris/dev/sample_app/spec/models/user_spec.rb",
+		"/Users/chris/dev/sample_app/db/migrate/20120728161904_add_admin_to_user.rb",
+		"/Users/chris/dev/sample_app/spec/requests/authentication_pages_spec.rb"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/chris/Downloads/boilerplate/vendor",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"install",
+			"places",
+			"diff",
+			"noOfTimes",
+			"console.log",
+			"languageId",
+			"noOfTimes",
+			"getNow",
+			"Root",
+			"root",
+			"icons",
+			"Mesh",
+			"renderer",
+			"200",
+			"quotes",
+			"matching",
+			"\n  ",
+			"git-completion",
+			"bashrc_login",
+			"bashrc_interactive",
+			"bashrc_script",
+			"bashrc_all",
+			"10px",
+			"60px",
+			"$width",
+			"20px",
+			"5px",
+			"12px",
+			"PostSchema",
+			"done",
+			"\"",
+			"redirect_to",
+			"remember_token",
+			"SessionsHelper",
+			"signed_in?",
+			"password_confirmation",
+			"      visit contact_path",
+			"      visit about_path",
+			"      visit help_path",
+			"      visit root_path",
+			"'/static_pages/contact'",
+			"'/static_pages/about'",
+			"'/static_pages/help'",
+			"'/static_pages/home'",
+			"#999",
+			"999",
+			"Ruby on Rails Tutorial Sample App |",
+			"fb_description",
+			"desc",
+			"_content",
+			"mousedownSelect",
+			"change",
+			"getEconomicDataWS",
+			"service",
+			"\"title\"",
+			"\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 189.0
+	},
+	"output.git":
+	{
+		"height": 120.0
+	},
+	"output.tests":
+	{
+		"height": 179.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"init",
+				"init.sh"
+			],
+			[
+				"in",
+				"bashrc_interactive.sh"
+			],
+			[
+				"int",
+				"bashrc_interactive.sh"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"app",
+				"app.coffee"
+			],
+			[
+				"index",
+				"views/index.jade"
+			],
+			[
+				"appli",
+				"public/js/application.js"
+			],
+			[
+				"inde",
+				"views/index.jade"
+			],
+			[
+				"applic",
+				"public/js/application.js"
+			],
+			[
+				"",
+				"spec/integration_spec.coffee"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"test",
+				"test/taskTest.coffee"
+			],
+			[
+				"ta",
+				"src/task.coffee"
+			],
+			[
+				"task",
+				"src/task.coffee"
+			],
+			[
+				"user_page",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"_user",
+				"app/views/users/_user.html.erb"
+			],
+			[
+				"fa",
+				"spec/factories.rb"
+			],
+			[
+				"users_",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"authent",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"users",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"user_pages",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"factorie",
+				"spec/factories.rb"
+			],
+			[
+				"sample",
+				"lib/tasks/sample_data.rake"
+			],
+			[
+				"migra",
+				"db/migrate/20120728161904_add_admin_to_user.rb"
+			],
+			[
+				"user_",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"authen",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"user",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"factor",
+				"spec/factories.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"gemi",
+				"Gemfile"
+			],
+			[
+				"header",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"cust",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"session",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"sessions",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"authe",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"sessionshe",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"users_con",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"edit",
+				"app/views/users/edit.html.erb"
+			],
+			[
+				"util",
+				"spec/support/utilities.rb"
+			],
+			[
+				"user_p",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"auth",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"utili",
+				"spec/support/utilities.rb"
+			],
+			[
+				"user_pa",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"user.rb",
+				"app/models/user.rb"
+			],
+			[
+				"user.r",
+				"app/models/user.rb"
+			],
+			[
+				"head",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"show",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"application.js",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"aplication",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"migrat",
+				"db/migrate/20120727181253_add_remember_token_to_users.rb"
+			],
+			[
+				"user_s",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"appliation_con",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"new",
+				"app/views/sessions/new.html.erb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"users_c",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"application",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"custom",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"sers_",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"users_hel",
+				"app/helpers/users_helper.rb"
+			],
+			[
+				"spec",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"test.",
+				"test.rb"
+			],
+			[
+				"fac",
+				"spec/factoriesrb"
+			],
+			[
+				"userpages",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"sch",
+				"db/schema.rb"
+			],
+			[
+				"migratae",
+				"db/migrate/20120726222839_add_password_digest_to_users.rb"
+			],
+			[
+				"schem",
+				"db/schema.rb"
+			],
+			[
+				"user.",
+				"app/models/user.rb"
+			],
+			[
+				"user_spe",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"sta",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"static",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"home",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"user_pag",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"foot",
+				"app/views/layouts/_footer.html.erb"
+			],
+			[
+				"stati",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"conta",
+				"app/views/static_pages/contact.html.erb"
+			],
+			[
+				"cu",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"application.c",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"gemfil",
+				"Gemfile"
+			],
+			[
+				"stat",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"applica",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				".rsp",
+				".rspec"
+			],
+			[
+				"about",
+				"app/views/static_pages/about.html.erb"
+			],
+			[
+				"help",
+				"app/views/static_pages/help.html.erb"
+			],
+			[
+				"hom",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"st",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"hoe",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 329.0,
+	"status_bar_visible": true
+}
