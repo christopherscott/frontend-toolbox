@@ -22,7 +22,9 @@ _"★" recommended and currently used by the maintainer_
 - [DocHub](http://dochub.io/): Alternative documentation repository for: CSS, HTML, JavaScript, DOM, jQuery, PHP, Python
 - [Hypertext Transfer Protocol -- HTTP/1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html): you should read through it at least once
 - [ReFiddle](http://refiddle.com/): Regular Expression (regex) tester... better than the rest
+
 ### Compatibility
+
 - [When can I use...](http://caniuse.com/): Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers.
 - [HTML5 & CSS3 Readiness](http://html5readiness.com/): We don't have to wait for entire specs to be completed, we can start using some hawtness now.
 - [HTML5 Please](http://html5please.com/): Use the new and shiny responsibly.
@@ -88,7 +90,10 @@ Should this be merged with 'JavaScript Build Tools' section below?
 - [Idiomatic JS](https://github.com/rwldrn/idiomatic.js): Principles of Writing Consistent, Idiomatic JavaScript
 - [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/): growing collection of documentation about the most quirky parts JavaScript
 
+### Headless DOM/Browsers
+
 - [PhantomJS](http://phantomjs.org/): Headless WebKit with JavaScript API
+- [ZombieJS](http://zombie.labnotes.org/): Insanely fast, headless full-stack testing using Node.js
 
 ### Build tools
 
@@ -103,17 +108,20 @@ Should this be merged with 'JavaScript Build Tools' section below?
 - [LabJS](http://labjs.com/) script loader
 - [YepNope](http://yepnopejs.com/) conditional loader for polyfills
 
+#### Package Managers
+
 - [Bower](http://twitter.github.com/bower/) package manager for the web
 - [Volo](https://github.com/volojs/volo) Create front end projects from templates, add dependencies, and automate the resulting projects
 - [Ender](http://ender.no.de/) the no-library library
 
 ### Books
 
-- [JSbooks](http://jsbooks.revolunet.com/): crazy collection of free JS books
-- [JavaScript:The Definitive Guide](http://shop.oreilly.com/product/9780596805531.do)
+- ★[JSbooks](http://jsbooks.revolunet.com/): crazy collection of free JS books
+- ★[JavaScript Web Applications](http://www.amazon.com/JavaScript-Web-Applications-Alex-MacCaw/dp/144930351X)
+- ★[JavaScript:The Definitive Guide](http://shop.oreilly.com/product/9780596805531.do)
+- ★[JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 - [JavaScript Patterns](http://shop.oreilly.com/product/9780596806767.do)
 - [Maintainable JavaScript](http://shop.oreilly.com/product/0636920025245.do)
-- [JavaScript Web Applications](http://www.amazon.com/JavaScript-Web-Applications-Alex-MacCaw/dp/144930351X)
 
 #### Free/online
 
@@ -132,6 +140,7 @@ Should this be merged with 'JavaScript Build Tools' section below?
 
 - [FormatCurrency](http://code.google.com/p/jquery-formatcurrency/)
 - [MaskedInput](http://digitalbush.com/projects/masked-input-plugin/)
+- [Fresco](http://www.frescojs.com/) beautiful, responsive lightbox
 
 ### Mobile
 
