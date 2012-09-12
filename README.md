@@ -89,6 +89,7 @@ Should this be merged with 'JavaScript Build Tools' section below?
 - [JSON3](http://bestiejs.github.com/json3/): JSON parser/stringifier
 - [Idiomatic JS](https://github.com/rwldrn/idiomatic.js): Principles of Writing Consistent, Idiomatic JavaScript
 - [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/): growing collection of documentation about the most quirky parts JavaScript
+- [JSConf](http://jsconf.com/)
 
 ### Headless DOM/Browsers
 
