@@ -1,0 +1,6183 @@
+[{
+  "docTitle": [],
+  "docAuthors": [],
+  "docDate": []
+}, [{
+  "Header": [1, [{
+    "Str": "frontend"
+  }, {
+    "Str": "-"
+  }, {
+    "Str": "toolbox"
+  }]]
+}, {
+  "Para": [{
+    "Str": "Actively"
+  }, "Space",
+  {
+    "Str": "maintained"
+  }, "Space",
+  {
+    "Str": "list"
+  }, "Space",
+  {
+    "Str": "of"
+  }, "Space",
+  {
+    "Str": "useful"
+  }, "Space",
+  {
+    "Str": "web"
+  }, "Space",
+  {
+    "Str": "developments"
+  }, "Space",
+  {
+    "Str": "tools"
+  }, {
+    "Str": ","
+  }, "Space",
+  {
+    "Str": "libraries"
+  }, {
+    "Str": ","
+  }, "Space",
+  {
+    "Str": "assets"
+  }, "Space",
+  {
+    "Str": "and"
+  }, "Space",
+  {
+    "Str": "any"
+  }, "Space",
+  {
+    "Str": "other"
+  }, "Space",
+  {
+    "Str": "open"
+  }, {
+    "Str": "-"
+  }, {
+    "Str": "source"
+  }, "Space",
+  {
+    "Str": "goodies"
+  }, {
+    "Str": "."
+  }]
+}, {
+  "Para": [{
+    "Str": "Shamelessly"
+  }, "Space",
+  {
+    "Str": "aggregated"
+  }, "Space",
+  {
+    "Str": "from"
+  }, "Space",
+  {
+    "Str": "the"
+  }, "Space",
+  {
+    "Str": "following"
+  }, "Space",
+  {
+    "Str": "resources"
+  }, {
+    "Str": ":"
+  }]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "A"
+          }, "Space",
+          {
+            "Str": "Baseline"
+          }, "Space",
+          {
+            "Str": "For"
+          }, "Space",
+          {
+            "Str": "Frontend"
+          }, "Space",
+          {
+            "Str": "Developers"
+          }],
+          ["http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Brunch"
+          }, "Space",
+          {
+            "Str": "plugin"
+          }, "Space",
+          {
+            "Str": "wiki"
+          }],
+          ["https://github.com/brunch/brunch/wiki/Plugins", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Tooling"
+          }, "Space",
+          {
+            "Str": "&"
+          }, "Space",
+          {
+            "Str": "The"
+          }, "Space",
+          {
+            "Str": "Webapp"
+          }, "Space",
+          {
+            "Str": "Development"
+          }, "Space",
+          {
+            "Str": "Stack"
+          }],
+          ["https://gist.github.com/2713513", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Notes"
+      }, "Space",
+      {
+        "Str": "from"
+      }, "Space",
+      {
+        "Str": "a"
+      }, "Space",
+      {
+        "Str": "talk"
+      }, "Space",
+      {
+        "Str": "by"
+      }, "Space",
+      {
+        "Str": "Paul"
+      }, "Space",
+      {
+        "Str": "Irish"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "DailyJS"
+          }],
+          ["http://dailyjs.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Excellent"
+      }, "Space",
+      {
+        "Str": "JavaScript"
+      }, "Space",
+      {
+        "Str": "blog"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "JavaScript"
+          }, "Space",
+          {
+            "Str": "Jabber"
+          }, "Space",
+          {
+            "Str": "Podcase"
+          }],
+          ["http://javascriptjabber.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Kick"
+      }, {
+        "Str": "-"
+      }, {
+        "Str": "ass"
+      }, "Space",
+      {
+        "Str": "JavaScript"
+      }, "Space",
+      {
+        "Str": "podcast"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Smashing"
+          }, "Space",
+          {
+            "Str": "Magazine"
+          }],
+          ["http://www.smashingmagazine.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Best"
+      }, "Space",
+      {
+        "Str": "web"
+      }, {
+        "Str": "-"
+      }, {
+        "Str": "development"
+      }, "Space",
+      {
+        "Str": "magazine"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Hipster"
+          }, "Space",
+          {
+            "Str": "Dev"
+          }, "Space",
+          {
+            "Str": "Stack"
+          }],
+          ["http://hipsterdevstack.tumblr.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "A"
+      }, "Space",
+      {
+        "Str": "curated"
+      }, "Space",
+      {
+        "Str": "directory"
+      }, "Space",
+      {
+        "Str": "of"
+      }, "Space",
+      {
+        "Str": "artisanal"
+      }, "Space",
+      {
+        "Str": "development"
+      }, "Space",
+      {
+        "Str": "tools"
+      }, "Space",
+      {
+        "Str": "that"
+      }, "Space",
+      {
+        "Str": "we"
+      }, "Space",
+      {
+        "Str": "used"
+      }, "Space",
+      {
+        "Str": "to"
+      }, "Space",
+      {
+        "Str": "like"
+      }, "Space",
+      {
+        "Str": "before"
+      }, "Space",
+      {
+        "Str": "they"
+      }, "Space",
+      {
+        "Str": "went"
+      }, "Space",
+      {
+        "Str": "mainstream"
+      }, {
+        "Str": "."
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "NetTutsPlus"
+          }],
+          ["http://net.tutsplus.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Web"
+      }, "Space",
+      {
+        "Str": "development"
+      }, "Space",
+      {
+        "Str": "tutorials"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "from"
+      }, "Space",
+      {
+        "Str": "beginner"
+      }, "Space",
+      {
+        "Str": "to"
+      }, "Space",
+      {
+        "Str": "advanced"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Sublime"
+          }, "Space",
+          {
+            "Str": "Text"
+          }, "Space",
+          {
+            "Str": "Workflow"
+          }, "Space",
+          {
+            "Str": "That"
+          }, "Space",
+          {
+            "Str": "Beats"
+          }, "Space",
+          {
+            "Str": "Coda"
+          }, "Space",
+          {
+            "Str": "and"
+          }, "Space",
+          {
+            "Str": "Espresso"
+          }],
+          ["http://tarantsov.com/blog/2012/02/sublime-text-workflow-that-beats-coda-and-espresso/", ""]
+        ]
+      }]
+    }]
+  ]
+}, {
+  "Para": [{
+    "Emph": [{
+      "Str": "\""
+    }, {
+      "Str": "★"
+    }, {
+      "Str": "\""
+    }, "Space",
+    {
+      "Str": "recommended"
+    }, "Space",
+    {
+      "Str": "and"
+    }, "Space",
+    {
+      "Str": "currently"
+    }, "Space",
+    {
+      "Str": "used"
+    }, "Space",
+    {
+      "Str": "by"
+    }, "Space",
+    {
+      "Str": "the"
+    }, "Space",
+    {
+      "Str": "maintainer"
+    }]
+  }]
+}, {
+  "Header": [2, [{
+    "Str": "General"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Str": "★"
+      }, "Space",
+      {
+        "Link": [
+          [{
+            "Str": "HTML5"
+          }, "Space",
+          {
+            "Str": "Spec"
+          }, "Space",
+          {
+            "Str": "for"
+          }, "Space",
+          {
+            "Str": "Web"
+          }, "Space",
+          {
+            "Str": "Developers"
+          }],
+          ["http://developers.whatwg.org/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "This"
+      }, "Space",
+      {
+        "Str": "specification"
+      }, "Space",
+      {
+        "Str": "is"
+      }, "Space",
+      {
+        "Str": "intended"
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "authors"
+      }, "Space",
+      {
+        "Str": "of"
+      }, "Space",
+      {
+        "Str": "documents"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "scripts"
+      }, "Space",
+      {
+        "Str": "that"
+      }, "Space",
+      {
+        "Str": "use"
+      }, "Space",
+      {
+        "Str": "the"
+      }, "Space",
+      {
+        "Str": "features"
+      }, "Space",
+      {
+        "Str": "defined"
+      }, "Space",
+      {
+        "Str": "in"
+      }, "Space",
+      {
+        "Str": "this"
+      }, "Space",
+      {
+        "Str": "specification"
+      }, {
+        "Str": "."
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "DocHub"
+          }],
+          ["http://dochub.io/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Alternative"
+      }, "Space",
+      {
+        "Str": "documentation"
+      }, "Space",
+      {
+        "Str": "repository"
+      }, "Space",
+      {
+        "Str": "for"
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "CSS"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "HTML"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "JavaScript"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "DOM"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "jQuery"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "PHP"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "Python"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Hypertext"
+          }, "Space",
+          {
+            "Str": "Transfer"
+          }, "Space",
+          {
+            "Str": "Protocol"
+          }, "Space",
+          {
+            "Str": "-"
+          }, {
+            "Str": "-"
+          }, "Space",
+          {
+            "Str": "HTTP"
+          }, {
+            "Str": "/"
+          }, {
+            "Str": "1"
+          }, {
+            "Str": "."
+          }, {
+            "Str": "1"
+          }],
+          ["http://www.w3.org/Protocols/rfc2616/rfc2616.html", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "you"
+      }, "Space",
+      {
+        "Str": "should"
+      }, "Space",
+      {
+        "Str": "read"
+      }, "Space",
+      {
+        "Str": "through"
+      }, "Space",
+      {
+        "Str": "it"
+      }, "Space",
+      {
+        "Str": "at"
+      }, "Space",
+      {
+        "Str": "least"
+      }, "Space",
+      {
+        "Str": "once"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "ReFiddle"
+          }],
+          ["http://refiddle.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Regular"
+      }, "Space",
+      {
+        "Str": "Expression"
+      }, "Space",
+      {
+        "Str": "("
+      }, {
+        "Str": "regex"
+      }, {
+        "Str": ")"
+      }, "Space",
+      {
+        "Str": "tester"
+      }, {
+        "Str": "."
+      }, {
+        "Str": "."
+      }, {
+        "Str": "."
+      }, "Space",
+      {
+        "Str": "better"
+      }, "Space",
+      {
+        "Str": "than"
+      }, "Space",
+      {
+        "Str": "the"
+      }, "Space",
+      {
+        "Str": "rest"
+      }]
+    }]
+  ]
+}, {
+  "Header": [3, [{
+    "Str": "Compatibility"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "When"
+          }, "Space",
+          {
+            "Str": "can"
+          }, "Space",
+          {
+            "Str": "I"
+          }, "Space",
+          {
+            "Str": "use"
+          }, {
+            "Str": "."
+          }, {
+            "Str": "."
+          }, {
+            "Str": "."
+          }],
+          ["http://caniuse.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Compatibility"
+      }, "Space",
+      {
+        "Str": "tables"
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "support"
+      }, "Space",
+      {
+        "Str": "of"
+      }, "Space",
+      {
+        "Str": "HTML5"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "CSS3"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "SVG"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "more"
+      }, "Space",
+      {
+        "Str": "in"
+      }, "Space",
+      {
+        "Str": "desktop"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "mobile"
+      }, "Space",
+      {
+        "Str": "browsers"
+      }, {
+        "Str": "."
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "HTML5"
+          }, "Space",
+          {
+            "Str": "&"
+          }, "Space",
+          {
+            "Str": "CSS3"
+          }, "Space",
+          {
+            "Str": "Readiness"
+          }],
+          ["http://html5readiness.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "We"
+      }, "Space",
+      {
+        "Str": "don"
+      }, {
+        "Str": "'"
+      }, {
+        "Str": "t"
+      }, "Space",
+      {
+        "Str": "have"
+      }, "Space",
+      {
+        "Str": "to"
+      }, "Space",
+      {
+        "Str": "wait"
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "entire"
+      }, "Space",
+      {
+        "Str": "specs"
+      }, "Space",
+      {
+        "Str": "to"
+      }, "Space",
+      {
+        "Str": "be"
+      }, "Space",
+      {
+        "Str": "completed"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "we"
+      }, "Space",
+      {
+        "Str": "can"
+      }, "Space",
+      {
+        "Str": "start"
+      }, "Space",
+      {
+        "Str": "using"
+      }, "Space",
+      {
+        "Str": "some"
+      }, "Space",
+      {
+        "Str": "hawtness"
+      }, "Space",
+      {
+        "Str": "now"
+      }, {
+        "Str": "."
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "HTML5"
+          }, "Space",
+          {
+            "Str": "Please"
+          }],
+          ["http://html5please.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Use"
+      }, "Space",
+      {
+        "Str": "the"
+      }, "Space",
+      {
+        "Str": "new"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "shiny"
+      }, "Space",
+      {
+        "Str": "responsibly"
+      }, {
+        "Str": "."
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "HTML5"
+          }, "Space",
+          {
+            "Str": "Polyfills"
+          }],
+          ["https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills", ""]
+        ]
+      }]
+    }]
+  ]
+}, {
+  "Header": [2, [{
+    "Str": "Runtimes"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Ruby"
+          }, "Space",
+          {
+            "Str": "Installer"
+          }, "Space",
+          {
+            "Str": "for"
+          }, "Space",
+          {
+            "Str": "Windows"
+          }],
+          ["http://rubyinstaller.org/", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "NodeJS"
+          }],
+          ["http://nodejs.org/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "win"
+      }, {
+        "Str": "/"
+      }, {
+        "Str": "linux"
+      }, {
+        "Str": "/"
+      }, {
+        "Str": "osx"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "HomeBrew"
+          }],
+          ["http://mxcl.github.com/homebrew/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "missing"
+      }, "Space",
+      {
+        "Str": "package"
+      }, "Space",
+      {
+        "Str": "manager"
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "OSX"
+      }]
+    }]
+  ]
+}, {
+  "Header": [2, [{
+    "Str": "Debugging"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Chrome"
+          }, "Space",
+          {
+            "Str": "Developer"
+          }, "Space",
+          {
+            "Str": "Tools"
+          }],
+          ["https://developers.google.com/chrome-developer-tools/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "chrome"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Firebug"
+          }],
+          ["http://getfirebug.com/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "firefox"
+      }]
+    }],
+    [{
+      "Para": [{
+        "Link": [
+          [{
+            "Str": "DragonFly"
+          }],
+          ["http://my.opera.com/dragonfly/blog/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "opera"
+      }]
+    }],
+    [{
+      "Para": [{
+        "Link": [
+          [{
+            "Str": "Fixing"
+          }, "Space",
+          {
+            "Str": "These"
+          }, "Space",
+          {
+            "Str": "jQuery"
+          }],
+          ["http://fixingthesejquery.com/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "how"
+      }, "Space",
+      {
+        "Str": "to"
+      }, "Space",
+      {
+        "Str": "debugger"
+      }, "Space",
+      {
+        "Str": "to"
+      }, "Space",
+      {
+        "Str": "debug"
+      }, "Space",
+      {
+        "Str": "jquery"
+      }]
+    }]
+  ]
+}, {
+  "Header": [2, [{
+    "Str": "Charts"
+  }, {
+    "Str": "/"
+  }, {
+    "Str": "graphs"
+  }, {
+    "Str": "/"
+  }, {
+    "Str": "visualization"
+  }, {
+    "Str": "/"
+  }, {
+    "Str": "reporting"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Str": "★"
+      }, {
+        "Link": [
+          [{
+            "Str": "flot"
+          }],
+          ["http://www.flotcharts.org/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "Attractive"
+      }, "Space",
+      {
+        "Str": "JavaScript"
+      }, "Space",
+      {
+        "Str": "plotting"
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "jQuery"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "flotr2"
+          }],
+          ["http://www.humblesoftware.com/flotr2/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "Graphs"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "Charts"
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "Canvas"
+      }, "Space",
+      {
+        "Str": "in"
+      }, "Space",
+      {
+        "Str": "JavaScript"
+      }, {
+        "Str": "."
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "gRaphael"
+          }],
+          ["http://g.raphaeljs.com/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "SVG"
+      }, "Space",
+      {
+        "Str": "charts"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "RGraph"
+          }],
+          ["http://www.rgraph.net/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "interactive"
+      }, "Space",
+      {
+        "Str": "Javascript"
+      }, "Space",
+      {
+        "Str": "charts"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "graphs"
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "your"
+      }, "Space",
+      {
+        "Str": "website"
+      }, "Space",
+      {
+        "Str": "using"
+      }, "Space",
+      {
+        "Str": "the"
+      }, "Space",
+      {
+        "Str": "HTML5"
+      }, "Space",
+      {
+        "Str": "canvas"
+      }, "Space",
+      {
+        "Str": "tag"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Sencha"
+          }, "Space",
+          {
+            "Str": "Touch"
+          }, "Space",
+          {
+            "Str": "Charts"
+          }],
+          ["http://www.sencha.com/products/touch/charts/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "-"
+      }, "Space",
+      {
+        "Str": "paid"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "HighCharts"
+          }],
+          ["http://www.highcharts.com/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "-"
+      }, "Space",
+      {
+        "Str": "paid"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "dygraphs"
+          }],
+          ["http://dygraphs.com/", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "ZingChart"
+          }],
+          ["http://www.zingchart.com/", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Fusion"
+          }, "Space",
+          {
+            "Str": "Charts"
+          }],
+          ["http://www.fusioncharts.com/", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "MilkCharts"
+          }],
+          ["http://mootools.net/forge/p/milkchart", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "MooTools"
+      }, "Space",
+      {
+        "Str": "weirdos"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Google"
+          }, "Space",
+          {
+            "Str": "Chart"
+          }, "Space",
+          {
+            "Str": "Tools"
+          }],
+          ["https://developers.google.com/chart/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "API"
+      }, "Space",
+      {
+        "Str": "based"
+      }]
+    }]
+  ]
+}, {
+  "Header": [4, [{
+    "Str": "UI"
+  }, "Space",
+  {
+    "Str": "Toolkits"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Twiter"
+          }, "Space",
+          {
+            "Str": "Bootstrap"
+          }],
+          ["http://twitter.github.com/bootstrap/", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Str": "★"
+      }, {
+        "Link": [
+          [{
+            "Str": "Compass"
+          }, "Space",
+          {
+            "Str": "Twitter"
+          }, "Space",
+          {
+            "Str": "Bootstrap"
+          }],
+          ["https://github.com/vwall/compass-twitter-bootstrap", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "jQuery"
+          }, "Space",
+          {
+            "Str": "UI"
+          }],
+          ["http://jqueryui.com/demos/", ""]
+        ]
+      }]
+    }]
+  ]
+}, {
+  "Header": [3, [{
+    "Str": "Documentation"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Str": "★"
+      }, "Space",
+      {
+        "Link": [
+          [{
+            "Str": "Docco"
+          }],
+          ["http://jashkenas.github.com/docco/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Quick"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "dirty"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "literate"
+      }, {
+        "Str": "-"
+      }, {
+        "Str": "programming"
+      }, "Space",
+      {
+        "Str": "documenation"
+      }, "Space",
+      {
+        "Str": "generator"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Groc"
+          }],
+          ["http://nevir.github.com/groc/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "is"
+      }, "Space",
+      {
+        "Str": "an"
+      }, "Space",
+      {
+        "Str": "attempt"
+      }, "Space",
+      {
+        "Str": "to"
+      }, "Space",
+      {
+        "Str": "further"
+      }, "Space",
+      {
+        "Str": "enhance"
+      }, "Space",
+      {
+        "Str": "the"
+      }, "Space",
+      {
+        "Str": "idea"
+      }, "Space",
+      {
+        "Str": "["
+      }, {
+        "Str": "of"
+      }, "Space",
+      {
+        "Str": "Docco"
+      }, {
+        "Str": "]"
+      }]
+    }]
+  ]
+}, {
+  "Header": [3, [{
+    "Str": "Total"
+  }, "Space",
+  {
+    "Str": "process"
+  }, "Space",
+  {
+    "Str": "build"
+  }, "Space",
+  {
+    "Str": "tools"
+  }, {
+    "Str": ","
+  }, "Space",
+  {
+    "Str": "Assemblers"
+  }, {
+    "Str": ","
+  }, "Space",
+  {
+    "Str": "et"
+  }, "Space",
+  {
+    "Str": "al"
+  }]]
+}, {
+  "Para": [{
+    "Str": "Should"
+  }, "Space",
+  {
+    "Str": "this"
+  }, "Space",
+  {
+    "Str": "be"
+  }, "Space",
+  {
+    "Str": "merged"
+  }, "Space",
+  {
+    "Str": "with"
+  }, "Space",
+  {
+    "Str": "'"
+  }, {
+    "Str": "JavaScript"
+  }, "Space",
+  {
+    "Str": "Build"
+  }, "Space",
+  {
+    "Str": "Tools"
+  }, {
+    "Str": "'"
+  }, "Space",
+  {
+    "Str": "section"
+  }, "Space",
+  {
+    "Str": "below"
+  }, {
+    "Str": "?"
+  }]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Str": "★"
+      }, "Space",
+      {
+        "Link": [
+          [{
+            "Str": "Yeoman"
+          }],
+          ["http://yeoman.io/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "a"
+      }, "Space",
+      {
+        "Str": "robust"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "opinionated"
+      }, "Space",
+      {
+        "Str": "client"
+      }, {
+        "Str": "-"
+      }, {
+        "Str": "side"
+      }, "Space",
+      {
+        "Str": "stack"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "comprised"
+      }, "Space",
+      {
+        "Str": "of"
+      }, "Space",
+      {
+        "Str": "tools"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "frameworks"
+      }, "Space",
+      {
+        "Str": "that"
+      }, "Space",
+      {
+        "Str": "can"
+      }, "Space",
+      {
+        "Str": "help"
+      }, "Space",
+      {
+        "Str": "developers"
+      }, "Space",
+      {
+        "Str": "quickly"
+      }, "Space",
+      {
+        "Str": "build"
+      }, "Space",
+      {
+        "Str": "beautiful"
+      }, "Space",
+      {
+        "Str": "web"
+      }, "Space",
+      {
+        "Str": "applications"
+      }, {
+        "Str": "."
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Str": "★"
+      }, "Space",
+      {
+        "Link": [
+          [{
+            "Str": "Brunch"
+          }],
+          ["http://brunch.io/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "A"
+      }, "Space",
+      {
+        "Str": "lightweight"
+      }, "Space",
+      {
+        "Str": "approach"
+      }, "Space",
+      {
+        "Str": "to"
+      }, "Space",
+      {
+        "Str": "building"
+      }, "Space",
+      {
+        "Str": "HTML5"
+      }, "Space",
+      {
+        "Str": "applications"
+      }, "Space",
+      {
+        "Str": "with"
+      }, "Space",
+      {
+        "Str": "an"
+      }, "Space",
+      {
+        "Str": "emphasis"
+      }, "Space",
+      {
+        "Str": "on"
+      }, "Space",
+      {
+        "Str": "elegance"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "simplicity"
+      }, {
+        "Str": "."
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Str": "★"
+      }, "Space",
+      {
+        "Link": [
+          [{
+            "Str": "Middleman"
+          }],
+          ["http://middlemanapp.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "a"
+      }, "Space",
+      {
+        "Str": "static"
+      }, "Space",
+      {
+        "Str": "site"
+      }, "Space",
+      {
+        "Str": "generator"
+      }, "Space",
+      {
+        "Str": "using"
+      }, "Space",
+      {
+        "Str": "all"
+      }, "Space",
+      {
+        "Str": "the"
+      }, "Space",
+      {
+        "Str": "shortcuts"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "tools"
+      }, "Space",
+      {
+        "Str": "in"
+      }, "Space",
+      {
+        "Str": "modern"
+      }, "Space",
+      {
+        "Str": "web"
+      }, "Space",
+      {
+        "Str": "development"
+      }, {
+        "Str": "."
+      }]
+    }],
+    [{
+      "Para": [{
+        "Link": [
+          [{
+            "Str": "Lumbar"
+          }],
+          ["http://walmartlabs.github.com/lumbar/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Lumbar"
+      }, "Space",
+      {
+        "Str": "is"
+      }, "Space",
+      {
+        "Str": "a"
+      }, "Space",
+      {
+        "Str": "js"
+      }, {
+        "Str": "-"
+      }, {
+        "Str": "build"
+      }, "Space",
+      {
+        "Str": "tool"
+      }, "Space",
+      {
+        "Str": "that"
+      }, "Space",
+      {
+        "Str": "takes"
+      }, "Space",
+      {
+        "Str": "a"
+      }, "Space",
+      {
+        "Str": "general"
+      }, "Space",
+      {
+        "Str": "codebase"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "list"
+      }, "Space",
+      {
+        "Str": "of"
+      }, "Space",
+      {
+        "Str": "platforms"
+      }, "Space",
+      {
+        "Str": "to"
+      }, "Space",
+      {
+        "Str": "generate"
+      }, "Space",
+      {
+        "Str": "modular"
+      }, "Space",
+      {
+        "Str": "platform"
+      }, "Space",
+      {
+        "Str": "specific"
+      }, "Space",
+      {
+        "Str": "applications"
+      }, {
+        "Str": "."
+      }, "Space",
+      {
+        "Str": "("
+      }, {
+        "Str": "from"
+      }, "Space",
+      {
+        "Str": "Walmart"
+      }, "Space",
+      {
+        "Str": "Labs"
+      }, {
+        "Str": ")"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "LiveReload"
+          }],
+          ["http://livereload.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "CSS"
+      }, "Space",
+      {
+        "Str": "edits"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "image"
+      }, "Space",
+      {
+        "Str": "changes"
+      }, "Space",
+      {
+        "Str": "apply"
+      }, "Space",
+      {
+        "Str": "live"
+      }, {
+        "Str": "."
+      }, "Space",
+      {
+        "Str": "CoffeeScript"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "SASS"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "LESS"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "others"
+      }, "Space",
+      {
+        "Str": "just"
+      }, "Space",
+      {
+        "Str": "work"
+      }, {
+        "Str": "."
+      }, "Space",
+      {
+        "Str": "("
+      }, {
+        "Str": "OSX"
+      }, "Space",
+      {
+        "Str": "app"
+      }, "Space",
+      {
+        "Str": "only"
+      }, {
+        "Str": ")"
+      }]
+    }],
+    [{
+      "Para": [{
+        "Link": [
+          [{
+            "Str": "CodeKit"
+          }],
+          ["http://incident57.com/codekit/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "CodeKit"
+      }, "Space",
+      {
+        "Str": "helps"
+      }, "Space",
+      {
+        "Str": "you"
+      }, "Space",
+      {
+        "Str": "build"
+      }, "Space",
+      {
+        "Str": "websites"
+      }, "Space",
+      {
+        "Str": "faster"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "better"
+      }, {
+        "Str": "."
+      }, "Space",
+      {
+        "Str": "("
+      }, {
+        "Str": "OSX"
+      }, "Space",
+      {
+        "Str": "app"
+      }, "Space",
+      {
+        "Str": "only"
+      }, {
+        "Str": ")"
+      }]
+    }]
+  ]
+}, {
+  "Header": [2, [{
+    "Str": "JavaScript"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Modernizr"
+          }],
+          ["http://modernizr.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "detects"
+      }, "Space",
+      {
+        "Str": "HTML5"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "CSS3"
+      }, "Space",
+      {
+        "Str": "features"
+      }, "Space",
+      {
+        "Str": "in"
+      }, "Space",
+      {
+        "Str": "the"
+      }, "Space",
+      {
+        "Str": "user"
+      }, {
+        "Str": "’"
+      }, {
+        "Str": "s"
+      }, "Space",
+      {
+        "Str": "browser"
+      }, {
+        "Str": "."
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Underscore"
+          }],
+          ["http://underscorejs.org/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "JavaScript"
+      }, "Space",
+      {
+        "Str": "utility"
+      }, "Space",
+      {
+        "Str": "belt"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "lodash"
+          }],
+          ["https://github.com/bestiejs/lodash", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "same"
+      }, "Space",
+      {
+        "Str": "api"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "but"
+      }, "Space",
+      {
+        "Str": "faster"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "more"
+      }, "Space",
+      {
+        "Str": "trendy"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "JSON3"
+          }],
+          ["http://bestiejs.github.com/json3/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "JSON"
+      }, "Space",
+      {
+        "Str": "parser"
+      }, {
+        "Str": "/"
+      }, {
+        "Str": "stringifier"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Idiomatic"
+          }, "Space",
+          {
+            "Str": "JS"
+          }],
+          ["https://github.com/rwldrn/idiomatic.js", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Principles"
+      }, "Space",
+      {
+        "Str": "of"
+      }, "Space",
+      {
+        "Str": "Writing"
+      }, "Space",
+      {
+        "Str": "Consistent"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "Idiomatic"
+      }, "Space",
+      {
+        "Str": "JavaScript"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "JavaScript"
+          }, "Space",
+          {
+            "Str": "Garden"
+          }],
+          ["http://bonsaiden.github.com/JavaScript-Garden/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "growing"
+      }, "Space",
+      {
+        "Str": "collection"
+      }, "Space",
+      {
+        "Str": "of"
+      }, "Space",
+      {
+        "Str": "documentation"
+      }, "Space",
+      {
+        "Str": "about"
+      }, "Space",
+      {
+        "Str": "the"
+      }, "Space",
+      {
+        "Str": "most"
+      }, "Space",
+      {
+        "Str": "quirky"
+      }, "Space",
+      {
+        "Str": "parts"
+      }, "Space",
+      {
+        "Str": "JavaScript"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "JSConf"
+          }],
+          ["http://jsconf.com/", ""]
+        ]
+      }]
+    }]
+  ]
+}, {
+  "Header": [3, [{
+    "Str": "Headless"
+  }, "Space",
+  {
+    "Str": "DOM"
+  }, {
+    "Str": "/"
+  }, {
+    "Str": "Browsers"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "PhantomJS"
+          }],
+          ["http://phantomjs.org/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Headless"
+      }, "Space",
+      {
+        "Str": "WebKit"
+      }, "Space",
+      {
+        "Str": "with"
+      }, "Space",
+      {
+        "Str": "JavaScript"
+      }, "Space",
+      {
+        "Str": "API"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "ZombieJS"
+          }],
+          ["http://zombie.labnotes.org/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Insanely"
+      }, "Space",
+      {
+        "Str": "fast"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "headless"
+      }, "Space",
+      {
+        "Str": "full"
+      }, {
+        "Str": "-"
+      }, {
+        "Str": "stack"
+      }, "Space",
+      {
+        "Str": "testing"
+      }, "Space",
+      {
+        "Str": "using"
+      }, "Space",
+      {
+        "Str": "Node"
+      }, {
+        "Str": "."
+      }, {
+        "Str": "js"
+      }]
+    }]
+  ]
+}, {
+  "Header": [3, [{
+    "Str": "Build"
+  }, "Space",
+  {
+    "Str": "tools"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Str": "★"
+      }, "Space",
+      {
+        "Link": [
+          [{
+            "Str": "Grunt"
+          }],
+          ["http://gruntjs.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "a"
+      }, "Space",
+      {
+        "Str": "task"
+      }, {
+        "Str": "-"
+      }, {
+        "Str": "based"
+      }, "Space",
+      {
+        "Str": "command"
+      }, "Space",
+      {
+        "Str": "line"
+      }, "Space",
+      {
+        "Str": "build"
+      }, "Space",
+      {
+        "Str": "tool"
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "JavaScript"
+      }, "Space",
+      {
+        "Str": "projects"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "UglifyJS"
+          }],
+          ["https://github.com/mishoo/UglifyJS", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "js"
+      }, "Space",
+      {
+        "Str": "minifier"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "beautifier"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Closure"
+          }, "Space",
+          {
+            "Str": "Compiler"
+          }],
+          ["https://developers.google.com/closure/compiler/", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "r"
+          }, {
+            "Str": "."
+          }, {
+            "Str": "js"
+          }, "Space",
+          {
+            "Str": "("
+          }, {
+            "Str": "RequireJS"
+          }, "Space",
+          {
+            "Str": "optimizer"
+          }, {
+            "Str": ")"
+          }],
+          ["https://github.com/jrburke/r.js/", ""]
+        ]
+      }]
+    }]
+  ]
+}, {
+  "Header": [3, [{
+    "Str": "Modules"
+  }, "Space",
+  {
+    "Str": "and"
+  }, "Space",
+  {
+    "Str": "Script"
+  }, "Space",
+  {
+    "Str": "loaders"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "RequireJS"
+          }],
+          ["http://requirejs.org/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "The"
+      }, "Space",
+      {
+        "Str": "awesomest"
+      }, "Space",
+      {
+        "Str": "AMD"
+      }, "Space",
+      {
+        "Str": "script"
+      }, "Space",
+      {
+        "Str": "loader"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "LabJS"
+          }],
+          ["http://labjs.com/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "script"
+      }, "Space",
+      {
+        "Str": "loader"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "YepNope"
+          }],
+          ["http://yepnopejs.com/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "conditional"
+      }, "Space",
+      {
+        "Str": "loader"
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "polyfills"
+      }]
+    }]
+  ]
+}, {
+  "Header": [4, [{
+    "Str": "Package"
+  }, "Space",
+  {
+    "Str": "Managers"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Bower"
+          }],
+          ["http://twitter.github.com/bower/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "package"
+      }, "Space",
+      {
+        "Str": "manager"
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "the"
+      }, "Space",
+      {
+        "Str": "web"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Volo"
+          }],
+          ["https://github.com/volojs/volo", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "Create"
+      }, "Space",
+      {
+        "Str": "front"
+      }, "Space",
+      {
+        "Str": "end"
+      }, "Space",
+      {
+        "Str": "projects"
+      }, "Space",
+      {
+        "Str": "from"
+      }, "Space",
+      {
+        "Str": "templates"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "add"
+      }, "Space",
+      {
+        "Str": "dependencies"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "automate"
+      }, "Space",
+      {
+        "Str": "the"
+      }, "Space",
+      {
+        "Str": "resulting"
+      }, "Space",
+      {
+        "Str": "projects"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Ender"
+          }],
+          ["http://ender.no.de/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "the"
+      }, "Space",
+      {
+        "Str": "no"
+      }, {
+        "Str": "-"
+      }, {
+        "Str": "library"
+      }, "Space",
+      {
+        "Str": "library"
+      }]
+    }]
+  ]
+}, {
+  "Header": [3, [{
+    "Str": "Books"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Str": "★"
+      }, {
+        "Link": [
+          [{
+            "Str": "JSbooks"
+          }],
+          ["http://jsbooks.revolunet.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "crazy"
+      }, "Space",
+      {
+        "Str": "collection"
+      }, "Space",
+      {
+        "Str": "of"
+      }, "Space",
+      {
+        "Str": "free"
+      }, "Space",
+      {
+        "Str": "JS"
+      }, "Space",
+      {
+        "Str": "books"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Str": "★"
+      }, {
+        "Link": [
+          [{
+            "Str": "JavaScript"
+          }, "Space",
+          {
+            "Str": "Web"
+          }, "Space",
+          {
+            "Str": "Applications"
+          }],
+          ["http://www.amazon.com/JavaScript-Web-Applications-Alex-MacCaw/dp/144930351X", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Str": "★"
+      }, {
+        "Link": [
+          [{
+            "Str": "JavaScript"
+          }, {
+            "Str": ":"
+          }, {
+            "Str": "The"
+          }, "Space",
+          {
+            "Str": "Definitive"
+          }, "Space",
+          {
+            "Str": "Guide"
+          }],
+          ["http://shop.oreilly.com/product/9780596805531.do", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Str": "★"
+      }, {
+        "Link": [
+          [{
+            "Str": "JavaScript"
+          }, {
+            "Str": ":"
+          }, "Space",
+          {
+            "Str": "The"
+          }, "Space",
+          {
+            "Str": "Good"
+          }, "Space",
+          {
+            "Str": "Parts"
+          }],
+          ["http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "JavaScript"
+          }, "Space",
+          {
+            "Str": "Patterns"
+          }],
+          ["http://shop.oreilly.com/product/9780596806767.do", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Maintainable"
+          }, "Space",
+          {
+            "Str": "JavaScript"
+          }],
+          ["http://shop.oreilly.com/product/0636920025245.do", ""]
+        ]
+      }]
+    }]
+  ]
+}, {
+  "Header": [4, [{
+    "Str": "Free"
+  }, {
+    "Str": "/"
+  }, {
+    "Str": "online"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Eloquent"
+          }, "Space",
+          {
+            "Str": "JavaScript"
+          }],
+          ["http://eloquentjavascript.net/", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Essential"
+          }, "Space",
+          {
+            "Str": "JavaScript"
+          }, "Space",
+          {
+            "Str": "Patterns"
+          }],
+          ["http://addyosmani.com/resources/essentialjsdesignpatterns/book/", ""]
+        ]
+      }]
+    }]
+  ]
+}, {
+  "Header": [3, [{
+    "Str": "jQuery"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "jQuery"
+          }],
+          ["http://jquery.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Write"
+      }, "Space",
+      {
+        "Str": "less"
+      }, {
+        "Str": ";"
+      }, "Space",
+      {
+        "Str": "do"
+      }, "Space",
+      {
+        "Str": "more"
+      }, {
+        "Str": "."
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Zepto"
+          }],
+          ["http://zeptojs.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "jQuery"
+      }, "Space",
+      {
+        "Str": "alternative"
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "mobile"
+      }, "Space",
+      {
+        "Str": "apps"
+      }, "Space",
+      {
+        "Str": "("
+      }, {
+        "Str": "super"
+      }, "Space",
+      {
+        "Str": "light"
+      }, {
+        "Str": "-"
+      }, {
+        "Str": "weight"
+      }, {
+        "Str": ")"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "jQAPI"
+          }],
+          ["http://jqapi.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Alternative"
+      }, "Space",
+      {
+        "Str": "jQuery"
+      }, "Space",
+      {
+        "Str": "Documentation"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "10"
+          }, "Space",
+          {
+            "Str": "Things"
+          }, "Space",
+          {
+            "Str": "I"
+          }, "Space",
+          {
+            "Str": "Learned"
+          }, "Space",
+          {
+            "Str": "From"
+          }, "Space",
+          {
+            "Str": "the"
+          }, "Space",
+          {
+            "Str": "jQuery"
+          }, "Space",
+          {
+            "Str": "Source"
+          }],
+          ["http://paulirish.com/2010/10-things-i-learned-from-the-jquery-source/", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "jQuery"
+          }, "Space",
+          {
+            "Str": "Fundamentals"
+          }],
+          ["http://jqfundamentals.com/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "Massively"
+      }, "Space",
+      {
+        "Str": "awesome"
+      }, "Space",
+      {
+        "Str": "online"
+      }, "Space",
+      {
+        "Str": "course"
+      }, {
+        "Str": "/"
+      }, {
+        "Str": "ebook"
+      }]
+    }]
+  ]
+}, {
+  "Header": [4, [{
+    "Str": "Useful"
+  }, "Space",
+  {
+    "Str": "jQuery"
+  }, "Space",
+  {
+    "Str": "Plugins"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "FormatCurrency"
+          }],
+          ["http://code.google.com/p/jquery-formatcurrency/", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "MaskedInput"
+          }],
+          ["http://digitalbush.com/projects/masked-input-plugin/", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Fresco"
+          }],
+          ["http://www.frescojs.com/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "beautiful"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "responsive"
+      }, "Space",
+      {
+        "Str": "lightbox"
+      }]
+    }]
+  ]
+}, {
+  "Header": [3, [{
+    "Str": "Mobile"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Zepto"
+          }],
+          ["http://zeptojs.com/", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "jQuery"
+          }, "Space",
+          {
+            "Str": "Mobile"
+          }],
+          ["http://jquerymobile.com/", ""]
+        ]
+      }]
+    }]
+  ]
+}, {
+  "Header": [3, [{
+    "Str": "Testing"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Jasmine"
+          }],
+          ["http://pivotal.github.com/jasmine/", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Mocha"
+          }],
+          ["http://visionmedia.github.com/mocha/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "new"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "trendy"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "lightweight"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "QUnit"
+          }],
+          ["http://docs.jquery.com/QUnit", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "j"
+      }, {
+        "Str": "-"
+      }, {
+        "Str": "unit"
+      }, "Space",
+      {
+        "Str": "inspired"
+      }, "Space",
+      {
+        "Str": "("
+      }, {
+        "Str": "i"
+      }, "Space",
+      {
+        "Str": "think"
+      }, {
+        "Str": ")"
+      }]
+    }],
+    [{
+      "Para": [{
+        "Link": [
+          [{
+            "Str": "Vows"
+          }],
+          ["http://vowsjs.org/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "async"
+      }, "Space",
+      {
+        "Str": "BDD"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "JSTestDriver"
+          }],
+          ["http://code.google.com/p/js-test-driver/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "remote"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "automated"
+      }, "Space",
+      {
+        "Str": "testing"
+      }, "Space",
+      {
+        "Str": "of"
+      }, "Space",
+      {
+        "Str": "javascript"
+      }, "Space",
+      {
+        "Str": "on"
+      }, "Space",
+      {
+        "Str": "different"
+      }, "Space",
+      {
+        "Str": "browsers"
+      }]
+    }],
+    [{
+      "Para": [{
+        "Link": [
+          [{
+            "Str": "Jasmine"
+          }, "Space",
+          {
+            "Str": "JSTD"
+          }],
+          ["https://github.com/ibolmo/jasmine-jstd-adapter", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "adapter"
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "using"
+      }, "Space",
+      {
+        "Str": "Jasmine"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "SinonJS"
+          }],
+          ["http://sinonjs.org/", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Chai"
+          }],
+          ["http://chaijs.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "assertions"
+      }, "Space",
+      {
+        "Str": "lib"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Emph": [{
+          "Str": "should"
+        }]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "foo"
+      }, {
+        "Str": "."
+      }, {
+        "Str": "should"
+      }, {
+        "Str": "."
+      }, {
+        "Str": "be"
+      }, {
+        "Str": "."
+      }, {
+        "Str": "a"
+      }, {
+        "Str": "("
+      }, {
+        "Str": "'"
+      }, {
+        "Str": "string"
+      }, {
+        "Str": "'"
+      }, {
+        "Str": ")"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Emph": [{
+          "Str": "expect"
+        }]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "expect"
+      }, {
+        "Str": "("
+      }, {
+        "Str": "foo"
+      }, {
+        "Str": ")"
+      }, {
+        "Str": "."
+      }, {
+        "Str": "to"
+      }, {
+        "Str": "."
+      }, {
+        "Str": "be"
+      }, {
+        "Str": "."
+      }, {
+        "Str": "a"
+      }, {
+        "Str": "("
+      }, {
+        "Str": "'"
+      }, {
+        "Str": "string"
+      }, {
+        "Str": "'"
+      }, {
+        "Str": ")"
+      }]
+    }],
+    [{
+      "Para": [{
+        "Emph": [{
+          "Str": "assert"
+        }]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "assert"
+      }, {
+        "Str": "."
+      }, {
+        "Str": "typeof"
+      }, {
+        "Str": "("
+      }, {
+        "Str": "foo"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "'"
+      }, {
+        "Str": "string"
+      }, {
+        "Str": "'"
+      }, {
+        "Str": ")"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "should"
+          }, {
+            "Str": "."
+          }, {
+            "Str": "js"
+          }],
+          ["https://github.com/visionmedia/should.js", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "'"
+      }, {
+        "Str": "should"
+      }, {
+        "Str": "'"
+      }, "Space",
+      {
+        "Str": "style"
+      }, "Space",
+      {
+        "Str": "assertions"
+      }]
+    }],
+    [{
+      "Para": [{
+        "Link": [
+          [{
+            "Str": "expect"
+          }, {
+            "Str": "."
+          }, {
+            "Str": "js"
+          }],
+          ["https://github.com/LearnBoost/expect.js", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "'"
+      }, {
+        "Str": "expect"
+      }, {
+        "Str": "'"
+      }, "Space",
+      {
+        "Str": "style"
+      }, "Space",
+      {
+        "Str": "assertions"
+      }]
+    }]
+  ]
+}, {
+  "Header": [3, [{
+    "Link": [
+      [{
+        "Str": "Transcompilation"
+      }],
+      ["http://en.wikipedia.org/wiki/Source-to-source_compiler", ""]
+    ]
+  }, "Space",
+  {
+    "Str": "Languages"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Str": "★"
+      }, {
+        "Link": [
+          [{
+            "Str": "CoffeeScript"
+          }],
+          ["http://coffeescript.org/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "a"
+      }, "Space",
+      {
+        "Str": "little"
+      }, "Space",
+      {
+        "Str": "language"
+      }, "Space",
+      {
+        "Str": "that"
+      }, "Space",
+      {
+        "Str": "compiles"
+      }, "Space",
+      {
+        "Str": "into"
+      }, "Space",
+      {
+        "Str": "JavaScript"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Little"
+          }, "Space",
+          {
+            "Str": "Book"
+          }, "Space",
+          {
+            "Str": "on"
+          }, "Space",
+          {
+            "Str": "CoffeeScript"
+          }],
+          ["http://arcturo.github.com/library/coffeescript/", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "CoffeeScript"
+          }, "Space",
+          {
+            "Str": "Tutorials"
+          }],
+          ["http://www.youtube.com/playlist?list=PL399DF0B74063889F&feature=plcp", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "IcedCoffeeScript"
+          }],
+          ["http://maxtaco.github.com/coffee-script/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "drop"
+      }, {
+        "Str": "-"
+      }, {
+        "Str": "in"
+      }, "Space",
+      {
+        "Str": "replacement"
+      }, "Space",
+      {
+        "Str": "interpreter"
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "CoffeeScript"
+      }, "Space",
+      {
+        "Str": "with"
+      }, "Space",
+      {
+        "Strong": [{
+          "Str": "async"
+        }, "Space",
+        {
+          "Str": "control"
+        }, "Space",
+        {
+          "Str": "flow"
+        }, "Space",
+        {
+          "Str": "semantics"
+        }]
+      }, {
+        "Str": "."
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "LiveScript"
+          }],
+          ["http://gkz.github.com/LiveScript/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "aims"
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "increased"
+      }, "Space",
+      {
+        "Str": "expressiveness"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "code"
+      }, "Space",
+      {
+        "Str": "beauty"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "while"
+      }, "Space",
+      {
+        "Str": "adding"
+      }, "Space",
+      {
+        "Str": "features"
+      }, "Space",
+      {
+        "Str": "to"
+      }, "Space",
+      {
+        "Str": "assist"
+      }, "Space",
+      {
+        "Str": "in"
+      }, "Space",
+      {
+        "Str": "functional"
+      }, "Space",
+      {
+        "Str": "style"
+      }, "Space",
+      {
+        "Str": "programming"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "imperative"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "object"
+      }, "Space",
+      {
+        "Str": "oriented"
+      }, "Space",
+      {
+        "Str": "programming"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "has"
+      }, "Space",
+      {
+        "Str": "an"
+      }, "Space",
+      {
+        "Str": "optional"
+      }, "Space",
+      {
+        "Str": "class"
+      }, "Space",
+      {
+        "Str": "system"
+      }, "Space",
+      {
+        "Str": "with"
+      }, "Space",
+      {
+        "Str": "inheritance"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "calls"
+      }, "Space",
+      {
+        "Str": "to"
+      }, "Space",
+      {
+        "Str": "super"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "more"
+      }, {
+        "Str": "."
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Roy"
+          }],
+          ["http://roy.brianmckenna.org/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "an"
+      }, "Space",
+      {
+        "Str": "experimental"
+      }, "Space",
+      {
+        "Str": "programming"
+      }, "Space",
+      {
+        "Str": "language"
+      }, "Space",
+      {
+        "Str": "that"
+      }, "Space",
+      {
+        "Str": "targets"
+      }, "Space",
+      {
+        "Str": "JavaScript"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "tries"
+      }, "Space",
+      {
+        "Str": "to"
+      }, "Space",
+      {
+        "Str": "meld"
+      }, "Space",
+      {
+        "Str": "JavaScript"
+      }, "Space",
+      {
+        "Str": "semantics"
+      }, "Space",
+      {
+        "Str": "with"
+      }, "Space",
+      {
+        "Str": "some"
+      }, "Space",
+      {
+        "Str": "features"
+      }, "Space",
+      {
+        "Str": "common"
+      }, "Space",
+      {
+        "Str": "in"
+      }, "Space",
+      {
+        "Str": "static"
+      }, "Space",
+      {
+        "Str": "functional"
+      }, "Space",
+      {
+        "Str": "languages"
+      }, {
+        "Str": "."
+      }]
+    }]
+  ]
+}, {
+  "Header": [3, [{
+    "Str": "Linters"
+  }]]
+}, {
+  "Para": [{
+    "Str": "Tools"
+  }, "Space",
+  {
+    "Str": "to"
+  }, "Space",
+  {
+    "Str": "detect"
+  }, "Space",
+  {
+    "Str": "errors"
+  }, "Space",
+  {
+    "Str": "("
+  }, {
+    "Str": "syntactic"
+  }, {
+    "Str": ","
+  }, "Space",
+  {
+    "Str": "semantic"
+  }, {
+    "Str": ","
+  }, "Space",
+  {
+    "Str": "otherwise"
+  }, {
+    "Str": ")"
+  }, "Space",
+  {
+    "Str": "and"
+  }, "Space",
+  {
+    "Str": "potential"
+  }, "Space",
+  {
+    "Str": "problems"
+  }, "Space",
+  {
+    "Str": "in"
+  }, "Space",
+  {
+    "Str": "JavaScript"
+  }, "Space",
+  {
+    "Str": "code"
+  }, {
+    "Str": "."
+  }]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "JSHint"
+          }],
+          ["http://www.jshint.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "New"
+      }, "Space",
+      {
+        "Str": "hotness"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Sublime"
+          }, "Space",
+          {
+            "Str": "Linter"
+          }],
+          ["https://github.com/SublimeLinter/SublimeLinter", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Sublime"
+      }, "Space",
+      {
+        "Str": "plugin"
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "JSHint"
+      }, {
+        "Str": "."
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "JSLint"
+          }],
+          ["http://www.jslint.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Old"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "busted"
+      }, {
+        "Str": "."
+      }]
+    }]
+  ]
+}, {
+  "Header": [3, [{
+    "Str": "Frameworks"
+  }, "Space",
+  {
+    "Str": "("
+  }, {
+    "Link": [
+      [{
+        "Str": "MV"
+      }, {
+        "Str": "*"
+      }, "Space",
+      {
+        "Str": "et"
+      }, "Space",
+      {
+        "Str": "al"
+      }],
+      ["http://lostechies.com/derickbailey/2011/12/23/backbone-js-is-not-an-mvc-framework/", ""]
+    ]
+  }, {
+    "Str": ")"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Backbone"
+          }, {
+            "Str": "."
+          }, {
+            "Str": "js"
+          }],
+          ["http://documentcloud.github.com/backbone", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Backbone"
+          }, "Space",
+          {
+            "Str": "Fundamentals"
+          }],
+          ["http://addyosmani.github.com/backbone-fundamentals/", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Backbone"
+          }, "Space",
+          {
+            "Str": "Koans"
+          }],
+          ["https://github.com/larrymyers/backbone-koans", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Marionette"
+          }],
+          ["http://marionettejs.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "composite"
+      }, "Space",
+      {
+        "Str": "app"
+      }, "Space",
+      {
+        "Str": "architecture"
+      }, "Space",
+      {
+        "Str": "on"
+      }, "Space",
+      {
+        "Str": "top"
+      }, "Space",
+      {
+        "Str": "of"
+      }, "Space",
+      {
+        "Str": "backbone"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Chaplin"
+          }],
+          ["https://github.com/chaplinjs/chaplin", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "application"
+      }, "Space",
+      {
+        "Str": "architecture"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Backbone"
+          }, "Space",
+          {
+            "Str": "LocalStorage"
+          }],
+          ["https://github.com/jeromegn/Backbone.localStorage", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Ember"
+          }, {
+            "Str": "."
+          }, {
+            "Str": "js"
+          }],
+          ["http://emberjs.com", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "AngularJS"
+          }],
+          ["http://angularjs.org", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Spine"
+          }],
+          ["http://spinejs.com", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "KnockoutJS"
+          }],
+          ["http://knockoutjs.com", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "("
+      }, {
+        "Str": "MVVM"
+      }, {
+        "Str": ")"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "YUI"
+          }],
+          ["http://yuilibrary.com", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Batman"
+          }, {
+            "Str": "."
+          }, {
+            "Str": "js"
+          }],
+          ["http://batmanjs.org", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Closure"
+          }],
+          ["http://code.google.com/closure/library/", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Google"
+          }, "Space",
+          {
+            "Str": "Web"
+          }, "Space",
+          {
+            "Str": "Toolkit"
+          }],
+          ["https://developers.google.com/web-toolkit/", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "CanJS"
+          }],
+          ["http://canjs.us", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Meteor"
+          }],
+          ["http://meteor.com", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Derby"
+          }],
+          ["http://derbyjs.com", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "SocketStream"
+          }],
+          ["http://www.socketstream.org", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "+"
+      }, "Space",
+      {
+        "Link": [
+          [{
+            "Str": "jQuery"
+          }],
+          ["http://jquery.com", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Ext"
+          }, {
+            "Str": "."
+          }, {
+            "Str": "js"
+          }],
+          ["http://www.sencha.com/products/extjs", ""]
+        ]
+      }]
+    }],
+    [{
+      "Para": [{
+        "Link": [
+          [{
+            "Str": "JavaScriptMVC"
+          }],
+          ["http://javascriptmvc.com", ""]
+        ]
+      }]
+    }],
+    [{
+      "Para": [{
+        "Link": [
+          [{
+            "Str": "RivetsJS"
+          }],
+          ["https://github.com/mikeric/rivets", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "declarative"
+      }, "Space",
+      {
+        "Str": "data"
+      }, {
+        "Str": "-"
+      }, {
+        "Str": "binding"
+      }, {
+        "Str": ";"
+      }, "Space",
+      {
+        "Str": "framework"
+      }, "Space",
+      {
+        "Str": "agnostic"
+      }]
+    }],
+    [{
+      "Para": [{
+        "Emph": [{
+          "Str": "there"
+        }, {
+          "Str": "'"
+        }, {
+          "Str": "s"
+        }, "Space",
+        {
+          "Str": "lots"
+        }, "Space",
+        {
+          "Str": "more"
+        }, "Space",
+        {
+          "Str": "but"
+        }, {
+          "Str": ","
+        }, "Space",
+        {
+          "Str": "comon"
+        }, {
+          "Str": "."
+        }, {
+          "Str": "."
+        }, {
+          "Str": "."
+        }, {
+          "Str": "."
+        }, "Space",
+        {
+          "Str": "they"
+        }, {
+          "Str": "'"
+        }, {
+          "Str": "re"
+        }, "Space",
+        {
+          "Str": "not"
+        }, "Space",
+        {
+          "Str": "as"
+        }, "Space",
+        {
+          "Str": "good"
+        }, "Space",
+        {
+          "Str": ":"
+        }, {
+          "Str": ")"
+        }]
+      }]
+    }]
+  ]
+}, {
+  "Header": [3, [{
+    "Str": "Templates"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Google"
+          }, "Space",
+          {
+            "Str": "Closure"
+          }, "Space",
+          {
+            "Str": "Templates"
+          }],
+          ["http://code.google.com/closure/templates/", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Mustache"
+          }],
+          ["https://github.com/janl/mustache.js/", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Handlebars"
+          }],
+          ["http://handlebarsjs.com/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "as"
+      }, "Space",
+      {
+        "Str": "featured"
+      }, "Space",
+      {
+        "Str": "in"
+      }, "Space",
+      {
+        "Str": "Ember"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "DustJS"
+          }],
+          ["http://akdubya.github.com/dustjs/", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "HoganJS"
+          }],
+          ["http://twitter.github.com/hogan.js/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "super"
+      }, "Space",
+      {
+        "Str": "lightweight"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "mustache"
+      }, {
+        "Str": "-"
+      }, {
+        "Str": "compatible"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Jade"
+          }, "Space",
+          {
+            "Str": "Templates"
+          }],
+          ["https://github.com/visionmedia/jade", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "as"
+      }, "Space",
+      {
+        "Str": "featured"
+      }, "Space",
+      {
+        "Str": "in"
+      }, "Space",
+      {
+        "Str": "Express"
+      }, {
+        "Str": "/"
+      }, {
+        "Str": "Node"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "EJS"
+          }],
+          ["http://embeddedjs.com/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "like"
+      }, "Space",
+      {
+        "Str": "ERB"
+      }, "Space",
+      {
+        "Str": "but"
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "javascript"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Underscore"
+          }, "Space",
+          {
+            "Str": "Templates"
+          }],
+          ["http://documentcloud.github.com/underscore/#template", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "MicroTemplating"
+          }],
+          ["http://ejohn.org/blog/javascript-micro-templating/", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "ICanHazJS"
+          }],
+          ["http://icanhazjs.com/", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "DomJs"
+          }],
+          ["https://github.com/medikoo/domjs", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "DotJS"
+          }],
+          ["http://olado.github.com/doT/", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "JsRender"
+          }],
+          ["http://borismoore.github.com/jsrender/demos/index.html", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Plates"
+          }],
+          ["https://github.com/flatiron/plates", ""]
+        ]
+      }]
+    }],
+    [{
+      "Para": [{
+        "Link": [
+          [{
+            "Str": "Transparency"
+          }],
+          ["http://leonidas.github.com/transparency/", ""]
+        ]
+      }]
+    }],
+    [{
+      "Para": [{
+        "Link": [
+          [{
+            "Str": "Template"
+          }, "Space",
+          {
+            "Str": "Chooser"
+          }],
+          ["http://garann.github.com/template-chooser/", ""]
+        ]
+      }]
+    }]
+  ]
+}, {
+  "Header": [3, [{
+    "Str": "Quizzes"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "PerfectionKills"
+          }, "Space",
+          {
+            "Str": "JS"
+          }, "Space",
+          {
+            "Str": "Quiz"
+          }],
+          ["http://perfectionkills.com/javascript-quiz/", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "So"
+          }, "Space",
+          {
+            "Str": "You"
+          }, "Space",
+          {
+            "Str": "Think"
+          }, "Space",
+          {
+            "Str": "You"
+          }, "Space",
+          {
+            "Str": "Know"
+          }, "Space",
+          {
+            "Str": "JavaScript"
+          }],
+          ["http://dmitry.baranovskiy.com/post/so-you-think-you-know-javascript", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Rebecca"
+          }, "Space",
+          {
+            "Str": "Murphey"
+          }, {
+            "Str": "'"
+          }, {
+            "Str": "s"
+          }, "Space",
+          {
+            "Str": "Challenge"
+          }],
+          ["https://gist.github.com/576723", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "NetTuts"
+          }, "Space",
+          {
+            "Str": "Quiz"
+          }, {
+            "Str": ":"
+          }, "Space",
+          {
+            "Str": "jQuery"
+          }, "Space",
+          {
+            "Str": "Basics"
+          }],
+          ["http://net.tutsplus.com/articles/quizzes/nettuts-quiz-jquery-basics/?search_index=1", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "NetTuts"
+          }, "Space",
+          {
+            "Str": "Quiz"
+          }, {
+            "Str": ":"
+          }, "Space",
+          {
+            "Str": "JavaScript"
+          }],
+          ["http://net.tutsplus.com/articles/quizzes/nettuts-quiz-3-javascript/?search_index=3", ""]
+        ]
+      }]
+    }]
+  ]
+}, {
+  "Header": [2, [{
+    "Str": "CSS"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "CSS3"
+          }, {
+            "Str": "."
+          }, {
+            "Str": "info"
+          }],
+          ["http://www.css3.info/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "All"
+      }, "Space",
+      {
+        "Str": "you"
+      }, "Space",
+      {
+        "Str": "ever"
+      }, "Space",
+      {
+        "Str": "needed"
+      }, "Space",
+      {
+        "Str": "to"
+      }, "Space",
+      {
+        "Str": "know"
+      }, "Space",
+      {
+        "Str": "about"
+      }, "Space",
+      {
+        "Str": "CSS3"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "CSS3"
+          }, "Space",
+          {
+            "Str": "Please"
+          }],
+          ["http://css3please.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "The"
+      }, "Space",
+      {
+        "Str": "Cross"
+      }, {
+        "Str": "-"
+      }, {
+        "Str": "Browser"
+      }, "Space",
+      {
+        "Str": "CSS3"
+      }, "Space",
+      {
+        "Str": "Rule"
+      }, "Space",
+      {
+        "Str": "Generator"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Semantic"
+          }, "Space",
+          {
+            "Str": "Grid"
+          }, "Space",
+          {
+            "Str": "System"
+          }],
+          ["http://semantic.gs/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Page"
+      }, "Space",
+      {
+        "Str": "layout"
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "tomorrow"
+      }, "Space",
+      {
+        "Str": "("
+      }, {
+        "Str": "SCSS"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "LESS"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "Stylus"
+      }, {
+        "Str": ")"
+      }]
+    }]
+  ]
+}, {
+  "Header": [3, [{
+    "Str": "Linters"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Recess"
+          }],
+          ["http://twitter.github.com/recess/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "Twitter"
+      }, {
+        "Str": "'"
+      }, {
+        "Str": "s"
+      }, "Space",
+      {
+        "Str": "CSS"
+      }, "Space",
+      {
+        "Str": "hinter"
+      }]
+    }]
+  ]
+}, {
+  "Header": [3, [{
+    "Str": "Preprocessors"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Stylus"
+          }],
+          ["http://learnboost.github.com/stylus/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Expressive"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "dynamic"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "robust"
+      }, "Space",
+      {
+        "Str": "CSS"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Nib"
+          }],
+          ["https://github.com/visionmedia/nib", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Sass"
+          }],
+          ["http://sass-lang.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Sass"
+      }, "Space",
+      {
+        "Str": "is"
+      }, "Space",
+      {
+        "Str": "an"
+      }, "Space",
+      {
+        "Str": "extension"
+      }, "Space",
+      {
+        "Str": "of"
+      }, "Space",
+      {
+        "Str": "CSS3"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "adding"
+      }, "Space",
+      {
+        "Str": "nested"
+      }, "Space",
+      {
+        "Str": "rules"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "variables"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "mixins"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "selector"
+      }, "Space",
+      {
+        "Str": "inheritance"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "more"
+      }, {
+        "Str": "."
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "SASS"
+          }, "Space",
+          {
+            "Str": "Tutorials"
+          }],
+          ["http://www.youtube.com/playlist?list=PL2CB1F80266E986EA&feature=plcp", ""]
+        ]
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Compass"
+          }],
+          ["http://compass-style.org/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Compass"
+      }, "Space",
+      {
+        "Str": "is"
+      }, "Space",
+      {
+        "Str": "an"
+      }, "Space",
+      {
+        "Str": "open"
+      }, {
+        "Str": "-"
+      }, {
+        "Str": "source"
+      }, "Space",
+      {
+        "Str": "CSS"
+      }, "Space",
+      {
+        "Str": "Authoring"
+      }, "Space",
+      {
+        "Str": "Framework"
+      }, {
+        "Str": "."
+      }]
+    }, {
+      "BulletList": [
+        [{
+          "Plain": [{
+            "Link": [
+              [{
+                "Str": "Compass"
+              }, "Space",
+              {
+                "Str": "Tutorials"
+              }],
+              ["http://www.youtube.com/playlist?list=PL45DD77A4CCA76ED3&feature=plcp", ""]
+            ]
+          }]
+        }],
+        [{
+          "Plain": [{
+            "Link": [
+              [{
+                "Str": "Compass"
+              }, "Space",
+              {
+                "Str": "Twitter"
+              }, "Space",
+              {
+                "Str": "Bootstrap"
+              }],
+              ["https://github.com/vwall/compass-twitter-bootstrap", ""]
+            ]
+          }]
+        }]
+      ]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Susy"
+          }],
+          ["http://susy.oddbird.net/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, {
+        "Str": "Responsive"
+      }, "Space",
+      {
+        "Str": "grids"
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "Compass"
+      }, {
+        "Str": "."
+      }, "Space",
+      {
+        "Str": "compas"
+      }]
+    }]
+  ]
+}, {
+  "Header": [2, [{
+    "Str": "Editors"
+  }]]
+}, {
+  "Header": [3, [{
+    "Str": "Sublime"
+  }, "Space",
+  {
+    "Str": "Text"
+  }, "Space",
+  {
+    "Str": "2"
+  }]]
+}, {
+  "Para": [{
+    "Str": "Install"
+  }, "Space",
+  {
+    "Str": "and"
+  }, "Space",
+  {
+    "Str": "use"
+  }, "Space",
+  {
+    "Link": [
+      [{
+        "Str": "Sublime"
+      }, "Space",
+      {
+        "Str": "Text"
+      }, "Space",
+      {
+        "Str": "2"
+      }, "Space",
+      {
+        "Str": "Package"
+      }, "Space",
+      {
+        "Str": "Control"
+      }],
+      ["http://wbond.net/sublime_packages/package_control", ""]
+    ]
+  }, "Space",
+  {
+    "Str": "for"
+  }, "Space",
+  {
+    "Str": "these"
+  }, "Space",
+  {
+    "Str": "and"
+  }, "Space",
+  {
+    "Str": "other"
+  }, "Space",
+  {
+    "Str": "plugins"
+  }, {
+    "Str": "."
+  }]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Str": "★"
+      }, "Space",
+      {
+        "Link": [
+          [{
+            "Str": "ZenCoding"
+          }],
+          ["https://github.com/sublimator/ZenCoding", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "editor"
+      }, "Space",
+      {
+        "Str": "plugin"
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "high"
+      }, {
+        "Str": "-"
+      }, {
+        "Str": "speed"
+      }, "Space",
+      {
+        "Str": "HTML"
+      }, "Space",
+      {
+        "Str": "coding"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "editing"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Str": "★"
+      }, "Space",
+      {
+        "Link": [
+          [{
+            "Str": "Markdown"
+          }, "Space",
+          {
+            "Str": "Preview"
+          }],
+          ["https://github.com/revolunet/sublimetext-markdown-preview", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "A"
+      }, "Space",
+      {
+        "Str": "simple"
+      }, "Space",
+      {
+        "Str": "plugin"
+      }, "Space",
+      {
+        "Str": "to"
+      }, "Space",
+      {
+        "Str": "help"
+      }, "Space",
+      {
+        "Str": "you"
+      }, "Space",
+      {
+        "Str": "preview"
+      }, "Space",
+      {
+        "Str": "your"
+      }, "Space",
+      {
+        "Strong": [{
+          "Str": "markdown"
+        }]
+      }, "Space",
+      {
+        "Str": "files"
+      }, {
+        "Str": ";"
+      }, "Space",
+      {
+        "Str": "works"
+      }, "Space",
+      {
+        "Str": "with"
+      }, "Space",
+      {
+        "Emph": [{
+          "Str": "LiveReload"
+        }]
+      }, {
+        "Str": "."
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Str": "★"
+      }, "Space",
+      {
+        "Link": [
+          [{
+            "Str": "LiveReload"
+          }],
+          ["https://github.com/dz0ny/LiveReload-sublimetext2", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "A"
+      }, "Space",
+      {
+        "Str": "web"
+      }, "Space",
+      {
+        "Str": "browser"
+      }, "Space",
+      {
+        "Str": "page"
+      }, "Space",
+      {
+        "Str": "reloading"
+      }, "Space",
+      {
+        "Str": "plugin"
+      }, {
+        "Str": "."
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Str": "★"
+      }, "Space",
+      {
+        "Link": [
+          [{
+            "Str": "Sidebar"
+          }, "Space",
+          {
+            "Str": "Enhancements"
+          }],
+          ["https://github.com/titoBouzout/SideBarEnhancements", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Enhancements"
+      }, "Space",
+      {
+        "Str": "to"
+      }, "Space",
+      {
+        "Str": "Sublime"
+      }, "Space",
+      {
+        "Str": "Text"
+      }, "Space",
+      {
+        "Str": "sidebar"
+      }, {
+        "Str": "."
+      }, "Space",
+      {
+        "Str": "Files"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "folders"
+      }, {
+        "Str": "."
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Str": "★"
+      }, "Space",
+      {
+        "Link": [
+          [{
+            "Str": "SublimeREPL"
+          }],
+          ["https://github.com/wuub/SublimeREPL", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, {
+        "Str": "run"
+      }, "Space",
+      {
+        "Str": "an"
+      }, "Space",
+      {
+        "Str": "interpreter"
+      }, "Space",
+      {
+        "Str": "inside"
+      }, "Space",
+      {
+        "Str": "ST2"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Str": "★"
+      }, "Space",
+      {
+        "Link": [
+          [{
+            "Str": "Git"
+          }],
+          ["https://github.com/kemayo/sublime-text-2-git", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Plugin"
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "some"
+      }, "Space",
+      {
+        "Str": "git"
+      }, "Space",
+      {
+        "Str": "integration"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Str": "★"
+      }, "Space",
+      {
+        "Link": [
+          [{
+            "Str": "SublimeLinter"
+          }],
+          ["https://github.com/SublimeLinter/SublimeLinter", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Inline"
+      }, "Space",
+      {
+        "Str": "lint"
+      }, "Space",
+      {
+        "Str": "highlighting"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Str": "★"
+      }, "Space",
+      {
+        "Link": [
+          [{
+            "Str": "JsFormat"
+          }],
+          ["https://github.com/jdc0589/JsFormat", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "javascipt"
+      }, "Space",
+      {
+        "Str": "formatting"
+      }, "Space",
+      {
+        "Str": "plugin"
+      }, "Space",
+      {
+        "Str": "("
+      }, {
+        "Str": "prettifier"
+      }, {
+        "Str": ")"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Sublime"
+          }, "Space",
+          {
+            "Str": "Prefixr"
+          }],
+          ["http://wbond.net/sublime_packages/prefixr", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "run"
+      }, "Space",
+      {
+        "Str": "CSS"
+      }, "Space",
+      {
+        "Str": "through"
+      }, "Space",
+      {
+        "Str": "the"
+      }, "Space",
+      {
+        "Link": [
+          [{
+            "Str": "Prefixr"
+          }],
+          ["http://prefixr.com/", ""]
+        ]
+      }, "Space",
+      {
+        "Str": "API"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Search"
+          }, "Space",
+          {
+            "Str": "StackOverflow"
+          }],
+          ["https://github.com/ericmartel/Sublime-Text-2-Stackoverflow-Plugin", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Simple"
+      }, "Space",
+      {
+        "Str": "search"
+      }, "Space",
+      {
+        "Str": "on"
+      }, "Space",
+      {
+        "Str": "Stack"
+      }, "Space",
+      {
+        "Str": "Overflow"
+      }, "Space",
+      {
+        "Str": "utility"
+      }]
+    }]
+  ]
+}, {
+  "Header": [4, [{
+    "Str": "Themes"
+  }, "Space",
+  {
+    "Str": "("
+  }, {
+    "Str": "TextMate"
+  }, "Space",
+  {
+    "Str": "or"
+  }, "Space",
+  {
+    "Str": "SublimeText"
+  }, {
+    "Str": ")"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "NodeJS"
+          }],
+          ["http://textmatetheme.com/node-js", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "dark"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Tomorrow"
+          }],
+          ["https://github.com/chriskempson/tomorrow-theme", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "multiple"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "dark"
+      }, {
+        "Str": "/"
+      }, {
+        "Str": "light"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Django"
+          }],
+          ["https://code.djangoproject.com/attachment/wiki/TextMate/Django.tmTheme.zip", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "dark"
+      }, "Space",
+      {
+        "Str": "green"
+      }]
+    }]
+  ]
+}, {
+  "Header": [2, [{
+    "Str": "Design"
+  }]]
+}, {
+  "Header": [3, [{
+    "Str": "Icons"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Str": "★"
+      }, "Space",
+      {
+        "Link": [
+          [{
+            "Str": "FontAwesome"
+          }],
+          ["http://fortawesome.github.com/Font-Awesome/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "The"
+      }, "Space",
+      {
+        "Str": "iconic"
+      }, "Space",
+      {
+        "Str": "font"
+      }, "Space",
+      {
+        "Str": "designed"
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "use"
+      }, "Space",
+      {
+        "Str": "with"
+      }, "Space",
+      {
+        "Str": "Twitter"
+      }, "Space",
+      {
+        "Str": "Bootstrap"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "IconSweets"
+          }],
+          ["http://iconsweets2.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "a"
+      }, "Space",
+      {
+        "Str": "huge"
+      }, "Space",
+      {
+        "Str": "FREE"
+      }, "Space",
+      {
+        "Str": "icon"
+      }, "Space",
+      {
+        "Str": "set"
+      }, "Space",
+      {
+        "Str": "containing"
+      }, "Space",
+      {
+        "Str": "over"
+      }, "Space",
+      {
+        "Str": "a"
+      }, "Space",
+      {
+        "Str": "1"
+      }, {
+        "Str": ","
+      }, {
+        "Str": "000"
+      }, {
+        "Str": "+"
+      }, "Space",
+      {
+        "Str": "icon"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Glyphicons"
+          }],
+          ["http://glyphicons.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "designed"
+      }, "Space",
+      {
+        "Str": "primarily"
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "toolbars"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "navigation"
+      }, "Space",
+      {
+        "Str": "bars"
+      }, "Space",
+      {
+        "Str": "in"
+      }, "Space",
+      {
+        "Str": "OS"
+      }, "Space",
+      {
+        "Str": "X"
+      }, "Space",
+      {
+        "Str": "Lion"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "the"
+      }, "Space",
+      {
+        "Str": "application"
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "iPhone"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "iPhone"
+      }, "Space",
+      {
+        "Str": "4"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "iPad"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "other"
+      }, "Space",
+      {
+        "Str": "Apple"
+      }, "Space",
+      {
+        "Str": "devices"
+      }, {
+        "Str": "."
+      }, "Space",
+      {
+        "Str": "("
+      }, {
+        "Str": "CC"
+      }, "Space",
+      {
+        "Str": "license"
+      }, {
+        "Str": ")"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Glyphish"
+          }],
+          ["http://www.glyphish.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Free"
+      }, "Space",
+      {
+        "Str": "set"
+      }, "Space",
+      {
+        "Str": "published"
+      }, "Space",
+      {
+        "Str": "under"
+      }, "Space",
+      {
+        "Str": "a"
+      }, "Space",
+      {
+        "Str": "Creative"
+      }, "Space",
+      {
+        "Str": "Commons"
+      }, "Space",
+      {
+        "Str": "Attribution"
+      }, "Space",
+      {
+        "Str": "license"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "FamFamFam"
+          }],
+          ["http://www.famfamfam.com/lab/icons/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "oldie"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "but"
+      }, "Space",
+      {
+        "Str": "goodie"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "LED"
+          }, "Space",
+          {
+            "Str": "Icon"
+          }, "Space",
+          {
+            "Str": "Set"
+          }],
+          ["http://led24.de/iconset/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "."
+      }, {
+        "Str": "png"
+      }, "Space",
+      {
+        "Str": "icons"
+      }, "Space",
+      {
+        "Str": "make"
+      }, "Space",
+      {
+        "Str": "a"
+      }, "Space",
+      {
+        "Str": "professionally"
+      }, "Space",
+      {
+        "Str": "looking"
+      }, "Space",
+      {
+        "Str": "small"
+      }, "Space",
+      {
+        "Str": "icon"
+      }, "Space",
+      {
+        "Str": "set"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "are"
+      }, "Space",
+      {
+        "Str": "totally"
+      }, "Space",
+      {
+        "Str": "free"
+      }, "Space",
+      {
+        "Str": "in"
+      }, "Space",
+      {
+        "Str": "commercial"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "open"
+      }, "Space",
+      {
+        "Str": "source"
+      }, "Space",
+      {
+        "Str": "apps"
+      }, "Space",
+      {
+        "Str": "/"
+      }, "Space",
+      {
+        "Str": "websites"
+      }, {
+        "Str": "."
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Fugue"
+          }, "Space",
+          {
+            "Str": "Icons"
+          }],
+          ["http://p.yusukekamiyamane.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "3"
+      }, {
+        "Str": ","
+      }, {
+        "Str": "480"
+      }, "Space",
+      {
+        "Str": "icons"
+      }, "Space",
+      {
+        "Str": "are"
+      }, "Space",
+      {
+        "Str": "included"
+      }, "Space",
+      {
+        "Str": "in"
+      }, "Space",
+      {
+        "Str": "PNG"
+      }, "Space",
+      {
+        "Str": "format"
+      }, "Space",
+      {
+        "Str": "("
+      }, {
+        "Str": "16x16"
+      }, "Space",
+      {
+        "Str": "pixels"
+      }, {
+        "Str": ")"
+      }, "Space",
+      {
+        "Str": "+"
+      }, "Space",
+      {
+        "Str": "bonus"
+      }, {
+        "Str": "."
+      }, "Space",
+      {
+        "Str": "("
+      }, {
+        "Str": "CC"
+      }, "Space",
+      {
+        "Str": "license"
+      }, {
+        "Str": ")"
+      }]
+    }]
+  ]
+}, {
+  "Header": [3, [{
+    "Str": "Typography"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Beautiful"
+          }, "Space",
+          {
+            "Str": "Web"
+          }, "Space",
+          {
+            "Str": "Type"
+          }],
+          ["http://hellohappy.org/beautiful-web-type/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "A"
+      }, "Space",
+      {
+        "Str": "showcase"
+      }, "Space",
+      {
+        "Str": "of"
+      }, "Space",
+      {
+        "Str": "the"
+      }, "Space",
+      {
+        "Str": "best"
+      }, "Space",
+      {
+        "Str": "typefaces"
+      }, "Space",
+      {
+        "Str": "from"
+      }, "Space",
+      {
+        "Str": "the"
+      }, "Space",
+      {
+        "Str": "Google"
+      }, "Space",
+      {
+        "Str": "web"
+      }, "Space",
+      {
+        "Str": "fonts"
+      }, "Space",
+      {
+        "Str": "directory"
+      }, {
+        "Str": "."
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "FontBomb"
+          }],
+          ["http://fontbomb.ilex.ca/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "To"
+      }, "Space",
+      {
+        "Str": "blow"
+      }, "Space",
+      {
+        "Str": "up"
+      }, "Space",
+      {
+        "Str": "other"
+      }, "Space",
+      {
+        "Str": "websites"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "drag"
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "drop"
+      }, "Space",
+      {
+        "Str": "this"
+      }, "Space",
+      {
+        "Str": "link"
+      }, "Space",
+      {
+        "Str": "fontBomb"
+      }, "Space",
+      {
+        "Str": "to"
+      }, "Space",
+      {
+        "Str": "your"
+      }, "Space",
+      {
+        "Str": "favorites"
+      }, "Space",
+      {
+        "Str": "bar"
+      }]
+    }]
+  ]
+}, {
+  "Header": [3, [{
+    "Str": "Textures"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Noise"
+          }, "Space",
+          {
+            "Str": "Texture"
+          }, "Space",
+          {
+            "Str": "Generator"
+          }],
+          ["http://www.noisetexturegenerator.com/", ""]
+        ]
+      }]
+    }]
+  ]
+}, {
+  "Header": [4, [{
+    "Str": "Favicons"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Piecon"
+          }],
+          ["http://lipka.github.com/piecon/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Pie"
+      }, "Space",
+      {
+        "Str": "charts"
+      }, "Space",
+      {
+        "Str": "in"
+      }, "Space",
+      {
+        "Str": "your"
+      }, "Space",
+      {
+        "Str": "favicon"
+      }, {
+        "Str": "!"
+      }]
+    }]
+  ]
+}, {
+  "Header": [2, [{
+    "Str": "Education"
+  }]]
+}, {
+  "BulletList": [
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "CodeAcademy"
+          }],
+          ["http://www.codecademy.com/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "the"
+      }, "Space",
+      {
+        "Str": "easiest"
+      }, "Space",
+      {
+        "Str": "way"
+      }, "Space",
+      {
+        "Str": "to"
+      }, "Space",
+      {
+        "Str": "learn"
+      }, "Space",
+      {
+        "Str": "to"
+      }, "Space",
+      {
+        "Str": "code"
+      }, {
+        "Str": "."
+      }, "Space",
+      {
+        "Str": "It"
+      }, {
+        "Str": "'"
+      }, {
+        "Str": "s"
+      }, "Space",
+      {
+        "Str": "interactive"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "fun"
+      }, {
+        "Str": ","
+      }, "Space",
+      {
+        "Str": "and"
+      }, "Space",
+      {
+        "Str": "you"
+      }, "Space",
+      {
+        "Str": "can"
+      }, "Space",
+      {
+        "Str": "do"
+      }, "Space",
+      {
+        "Str": "it"
+      }, "Space",
+      {
+        "Str": "with"
+      }, "Space",
+      {
+        "Str": "your"
+      }, "Space",
+      {
+        "Str": "friends"
+      }, {
+        "Str": "."
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "NCZOnline"
+          }, {
+            "Str": ":"
+          }, "Space",
+          {
+            "Str": "'"
+          }, {
+            "Str": "Computer"
+          }, "Space",
+          {
+            "Str": "Science"
+          }, {
+            "Str": "'"
+          }],
+          ["http://www.nczonline.net/blog/tag/computer-science/", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Nicholas"
+      }, "Space",
+      {
+        "Str": "C"
+      }, {
+        "Str": "."
+      }, "Space",
+      {
+        "Str": "Zakas"
+      }, "Space",
+      {
+        "Str": "presents"
+      }, "Space",
+      {
+        "Str": "computer"
+      }, "Space",
+      {
+        "Str": "science"
+      }, "Space",
+      {
+        "Str": "concepts"
+      }, "Space",
+      {
+        "Str": "using"
+      }, "Space",
+      {
+        "Str": "JavaScript"
+      }, "Space",
+      {
+        "Str": "as"
+      }, "Space",
+      {
+        "Str": "language"
+      }, "Space",
+      {
+        "Str": "of"
+      }, "Space",
+      {
+        "Str": "choice"
+      }]
+    }],
+    [{
+      "Plain": [{
+        "Link": [
+          [{
+            "Str": "Stanford"
+          }, "Space",
+          {
+            "Str": "OpenClassroom"
+          }],
+          ["http://openclassroom.stanford.edu/MainFolder/HomePage.php", ""]
+        ]
+      }, {
+        "Str": ":"
+      }, "Space",
+      {
+        "Str": "Full"
+      }, "Space",
+      {
+        "Str": "courses"
+      }, {
+        "Str": "."
+      }, "Space",
+      {
+        "Str": "Short"
+      }, "Space",
+      {
+        "Str": "Videos"
+      }, {
+        "Str": "."
+      }, "Space",
+      {
+        "Str": "Free"
+      }, "Space",
+      {
+        "Str": "for"
+      }, "Space",
+      {
+        "Str": "everyone"
+      }, {
+        "Str": "."
+      }]
+    }]
+  ]
+}]]

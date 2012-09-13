@@ -142,6 +142,8 @@ Should this be merged with 'JavaScript Build Tools' section below?
 - [FormatCurrency](http://code.google.com/p/jquery-formatcurrency/)
 - [MaskedInput](http://digitalbush.com/projects/masked-input-plugin/)
 - [Fresco](http://www.frescojs.com/) beautiful, responsive lightbox
+- [Chosen](http://harvesthq.github.com/chosen/)
+- [jQuery File Upload](https://github.com/blueimp/jQuery-File-Upload) best uploader on the planet
 
 ### Mobile
 
