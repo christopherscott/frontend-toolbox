@@ -30,6 +30,11 @@ _"★" recommended and currently used by the maintainer_
 - [HTML5 Please](http://html5please.com/): Use the new and shiny responsibly.
 - [HTML5 Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 
+## Performance
+
+- [HTTPArchive](http://httparchive.org/index.php) Performance stats and trends for the worlds most popular sites
+
+
 ## Runtimes
 
 - [Ruby Installer for Windows](http://rubyinstaller.org/)
@@ -144,6 +149,8 @@ Should this be merged with 'JavaScript Build Tools' section below?
 - [Fresco](http://www.frescojs.com/) beautiful, responsive lightbox
 - [Chosen](http://harvesthq.github.com/chosen/)
 - [jQuery File Upload](https://github.com/blueimp/jQuery-File-Upload) best uploader on the planet
+- [BigVideo](http://dfcb.github.com/BigVideo.js/)
+
 
 ### Mobile
 
@@ -287,6 +294,8 @@ Install and use [Sublime Text 2 Package Control](http://wbond.net/sublime_packag
 - [Django](https://code.djangoproject.com/attachment/wiki/TextMate/Django.tmTheme.zip): dark green
 
 ## Design
+
+- [This Is Responsive](http://responsive.rga.com/): also see https://github.com/bradfrost/this-is-responsive.git
 
 ### Icons
 
