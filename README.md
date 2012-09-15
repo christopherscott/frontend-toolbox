@@ -51,7 +51,7 @@ _"★" recommended and currently used by the maintainer_
 
 ## Charts/graphs/visualization/reporting
 
-- ★[flot](http://www.flotcharts.org/) Attractive JavaScript plotting for jQuery
+- ★ [flot](http://www.flotcharts.org/) Attractive JavaScript plotting for jQuery
 - [flotr2](http://www.humblesoftware.com/flotr2/) Graphs and Charts for Canvas in JavaScript.
 - [gRaphael](http://g.raphaeljs.com/) SVG charts
 - [RGraph](http://www.rgraph.net/) interactive Javascript charts and graphs for your website using the HTML5 canvas tag
@@ -66,7 +66,7 @@ _"★" recommended and currently used by the maintainer_
 #### UI Toolkits
 
 - [Twiter Bootstrap](http://twitter.github.com/bootstrap/)
-  - ★[Compass Twitter Bootstrap](https://github.com/vwall/compass-twitter-bootstrap)
+  - ★ [Compass Twitter Bootstrap](https://github.com/vwall/compass-twitter-bootstrap)
 - [jQuery UI](http://jqueryui.com/demos/)
 
 ### Documentation
@@ -82,7 +82,6 @@ Should this be merged with 'JavaScript Build Tools' section below?
 - ★ [Brunch](http://brunch.io/): A lightweight approach to building HTML5 applications with an emphasis on elegance and simplicity.
 - ★ [Middleman](http://middlemanapp.com/): a static site generator using all the shortcuts and tools in modern web development.
 - [Lumbar](http://walmartlabs.github.com/lumbar/): Lumbar is a js-build tool that takes a general codebase and list of platforms to generate modular platform specific applications. (from Walmart Labs)
-
 - [LiveReload](http://livereload.com/): CSS edits and image changes apply live. CoffeeScript, SASS, LESS and others just work. (OSX app only)
 - [CodeKit](http://incident57.com/codekit/): CodeKit helps you build websites faster and better. (OSX app only)
 
@@ -122,10 +121,10 @@ Should this be merged with 'JavaScript Build Tools' section below?
 
 ### Books
 
-- ★[JSbooks](http://jsbooks.revolunet.com/): crazy collection of free JS books
-- ★[JavaScript Web Applications](http://www.amazon.com/JavaScript-Web-Applications-Alex-MacCaw/dp/144930351X)
-- ★[JavaScript:The Definitive Guide](http://shop.oreilly.com/product/9780596805531.do)
-- ★[JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
+- ★ [JSbooks](http://jsbooks.revolunet.com/): crazy collection of free JS books
+- ★ [JavaScript Web Applications](http://www.amazon.com/JavaScript-Web-Applications-Alex-MacCaw/dp/144930351X)
+- ★ [JavaScript:The Definitive Guide](http://shop.oreilly.com/product/9780596805531.do)
+- ★ [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 - [JavaScript Patterns](http://shop.oreilly.com/product/9780596806767.do)
 - [Maintainable JavaScript](http://shop.oreilly.com/product/0636920025245.do)
 
@@ -151,7 +150,6 @@ Should this be merged with 'JavaScript Build Tools' section below?
 - [jQuery File Upload](https://github.com/blueimp/jQuery-File-Upload) best uploader on the planet
 - [BigVideo](http://dfcb.github.com/BigVideo.js/)
 
-
 ### Mobile
 
 - [Zepto](http://zeptojs.com/)
@@ -164,22 +162,25 @@ Should this be merged with 'JavaScript Build Tools' section below?
 - [QUnit](http://docs.jquery.com/QUnit) j-unit inspired (i think)
 - [Vows](http://vowsjs.org/) async BDD
 
+#### Test Drivers
 - [JSTestDriver](http://code.google.com/p/js-test-driver/) remote, automated testing of javascript on different browsers
   - [Jasmine JSTD](https://github.com/ibolmo/jasmine-jstd-adapter) adapter for using Jasmine
 
-- [SinonJS](http://sinonjs.org/)
+#### Assertions
 - [Chai](http://chaijs.com/): assertions lib
   - *should*: foo.should.be.a('string')
   - *expect*: expect(foo).to.be.a('string')
   - *assert*: assert.typeof(foo, 'string')
-
 - [should.js](https://github.com/visionmedia/should.js) 'should' style assertions
 - [expect.js](https://github.com/LearnBoost/expect.js) 'expect' style assertions
+
+#### Mocks, stubs, spies
+- [SinonJS](http://sinonjs.org/)
 
 
 ### [Transcompilation](http://en.wikipedia.org/wiki/Source-to-source_compiler) Languages
 
-- ★[CoffeeScript](http://coffeescript.org/): a little language that compiles into JavaScript
+- ★ [CoffeeScript](http://coffeescript.org/): a little language that compiles into JavaScript
   - [Little Book on CoffeeScript](http://arcturo.github.com/library/coffeescript/)
   - [CoffeeScript Tutorials](http://www.youtube.com/playlist?list=PL399DF0B74063889F&feature=plcp)
 - [IcedCoffeeScript](http://maxtaco.github.com/coffee-script/): drop-in replacement interpreter for CoffeeScript with **async control flow semantics**.
@@ -219,17 +220,17 @@ Tools to detect errors (syntactic, semantic, otherwise) and potential problems i
 
 - [RivetsJS](https://github.com/mikeric/rivets) declarative data-binding; framework agnostic
 
-- _there's lots more but, comon.... they're not as good :)_
-
 ### Templates
 
-- [Google Closure Templates](http://code.google.com/closure/templates/)
+- [Template Chooser](http://garann.github.com/template-chooser/)
+
 - [Mustache](https://github.com/janl/mustache.js/)
 - [Handlebars](http://handlebarsjs.com/) as featured in Ember
-- [DustJS](http://akdubya.github.com/dustjs/)
+- [DustJS](http://akdubya.github.com/dustjs/) fast, streaming
 - [HoganJS](http://twitter.github.com/hogan.js/) super lightweight, mustache-compatible
 - [Jade Templates](https://github.com/visionmedia/jade) as featured in Express/Node
 - [EJS](http://embeddedjs.com/) like ERB but for javascript
+- [Google Closure Templates](http://code.google.com/closure/templates/)
 - [Underscore Templates](http://documentcloud.github.com/underscore/#template)
 - [MicroTemplating](http://ejohn.org/blog/javascript-micro-templating/)
 - [ICanHazJS](http://icanhazjs.com/)
@@ -239,7 +240,6 @@ Tools to detect errors (syntactic, semantic, otherwise) and potential problems i
 - [Plates](https://github.com/flatiron/plates)
 - [Transparency](http://leonidas.github.com/transparency/)
 
-- [Template Chooser](http://garann.github.com/template-chooser/)
 
 ### Quizzes
 
@@ -256,19 +256,20 @@ Tools to detect errors (syntactic, semantic, otherwise) and potential problems i
 - [Semantic Grid System](http://semantic.gs/): Page layout for tomorrow (SCSS, LESS, Stylus)
 
 ### Linters
-  - [Recess](http://twitter.github.com/recess/) Twitter's CSS hinter
+
+- [Recess](http://twitter.github.com/recess/) Twitter's CSS hinter
 
 ### Preprocessors
 
-- [Stylus](http://learnboost.github.com/stylus/): Expressive, dynamic, robust CSS
-  - [Nib](https://github.com/visionmedia/nib)
 - [Sass](http://sass-lang.com/): Sass is an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more.
   - [SASS Tutorials](http://www.youtube.com/playlist?list=PL2CB1F80266E986EA&feature=plcp)
   - [Compass](http://compass-style.org/): Compass is an open-source CSS Authoring Framework.
     - [Compass Tutorials](http://www.youtube.com/playlist?list=PL45DD77A4CCA76ED3&feature=plcp)
     - [Compass Twitter Bootstrap](https://github.com/vwall/compass-twitter-bootstrap)
   - [Susy](http://susy.oddbird.net/):Responsive grids for Compass.
-  compas
+- [LESS](http://lesscss.org/): The dynamic stylsheet language
+- [Stylus](http://learnboost.github.com/stylus/): Expressive, dynamic, robust CSS
+  - [Nib](https://github.com/visionmedia/nib)
 
 ## Editors
 
@@ -287,8 +288,19 @@ Install and use [Sublime Text 2 Package Control](http://wbond.net/sublime_packag
 - [Sublime Prefixr](http://wbond.net/sublime_packages/prefixr): run CSS through the [Prefixr](http://prefixr.com/) API
 - [Search StackOverflow](https://github.com/ericmartel/Sublime-Text-2-Stackoverflow-Plugin): Simple search on Stack Overflow utility
 
+### TextMate
+
+- [Official Site](http://macromates.com/)
+- [Source (on Github)](https://github.com/textmate/textmate)
+
+### Vi/Vim
+
+- [MacVim](http://code.google.com/p/macvim/): More mac-like than the command line
+- [gVim](http://www.vim.org/download.php#pc): More PC-like? 
+
 #### Themes (TextMate or SublimeText)
 
+- [TextMate Theme](http://textmatetheme.com/)
 - [NodeJS](http://textmatetheme.com/node-js): dark
 - [Tomorrow](https://github.com/chriskempson/tomorrow-theme): multiple, dark/light
 - [Django](https://code.djangoproject.com/attachment/wiki/TextMate/Django.tmTheme.zip): dark green
@@ -312,8 +324,27 @@ Install and use [Sublime Text 2 Package Control](http://wbond.net/sublime_packag
 - [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/): A showcase of the best typefaces from the Google web fonts directory.
 - [FontBomb](http://fontbomb.ilex.ca/): To blow up other websites, drag and drop this link fontBomb to your favorites bar
 
+#### Free Fonts
+
+- [DaFont](http://www.dafont.com/)
+- [FontSquirell](http://www.fontsquirrel.com/)
+
+#### Web Font Services
+
+- [typekit](https://typekit.com/): the easiest way to use real web fonts, by Adobe (paid, but free/limited version available)
+- [Google web fonts](http://www.google.com/webfonts): free, easy to use, lots of fonts (500+)
+- [WebFonts](http://www.webtype.com/)
+- [FontDeck](http://fontdeck.com/)
+- [FontSpring](http://www.fontspring.com/)
+- [TypeFront](http://typefront.com/)
+- [FontsLive](http://www.fontslive.com/)
+- [WebINK](http://www.webink.com/)
+- [typotheque](http://www.typotheque.com/webfonts)
+- [kernest](http://www.kernest.com/)
+
 ### Textures
 
+- [SubtlePatterns](http://subtlepatterns.com/): tons of really nice, subtle patterns, love this site!
 - [Noise Texture Generator](http://www.noisetexturegenerator.com/)
 
 #### Favicons
