@@ -223,7 +223,6 @@ Tools to detect errors (syntactic, semantic, otherwise) and potential problems i
 ### Templates
 
 - [Template Chooser](http://garann.github.com/template-chooser/)
-
 - [Mustache](https://github.com/janl/mustache.js/)
 - [Handlebars](http://handlebarsjs.com/) as featured in Ember
 - [DustJS](http://akdubya.github.com/dustjs/) fast, streaming
