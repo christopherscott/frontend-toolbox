@@ -2,18 +2,6 @@
 
 Actively maintained list of useful web developments tools, libraries, assets and any other open-source goodies.
 
-Shamelessly aggregated from the following resources:
-
-- [A Baseline For Frontend Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
-- [Brunch plugin wiki](https://github.com/brunch/brunch/wiki/Plugins)
-- [Tooling & The Webapp Development Stack](https://gist.github.com/2713513): Notes from a talk by Paul Irish
-- [DailyJS](http://dailyjs.com/): Excellent JavaScript blog
-- [JavaScript Jabber Podcase](http://javascriptjabber.com/): Kick-ass JavaScript podcast
-- [Smashing Magazine](http://www.smashingmagazine.com/): Best web-development magazine
-- [Hipster Dev Stack](http://hipsterdevstack.tumblr.com/): A curated directory of artisanal development tools that we used to like before they went mainstream.
-- [NetTutsPlus](http://net.tutsplus.com/): Web development tutorials, from beginner to advanced
-- [Sublime Text Workflow That Beats Coda and Espresso](http://tarantsov.com/blog/2012/02/sublime-text-workflow-that-beats-coda-and-espresso/)
-
 _"★" recommended and currently used by the maintainer_
 
 ## General
@@ -359,3 +347,17 @@ Install and use [Sublime Text 2 Package Control](http://wbond.net/sublime_packag
 - [CodeAcademy](http://www.codecademy.com/): the easiest way to learn to code. It's interactive, fun, and you can do it with your friends.
 - [NCZOnline: 'Computer Science'](http://www.nczonline.net/blog/tag/computer-science/): Nicholas C. Zakas presents computer science concepts using JavaScript as language of choice
 - [Stanford OpenClassroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php): Full courses. Short Videos. Free for everyone.
+
+---
+
+Shamelessly aggregated from the following resources:
+
+- [A Baseline For Frontend Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
+- [Brunch plugin wiki](https://github.com/brunch/brunch/wiki/Plugins)
+- [Tooling & The Webapp Development Stack](https://gist.github.com/2713513): Notes from a talk by Paul Irish
+- [DailyJS](http://dailyjs.com/): Excellent JavaScript blog
+- [JavaScript Jabber Podcase](http://javascriptjabber.com/): Kick-ass JavaScript podcast
+- [Smashing Magazine](http://www.smashingmagazine.com/): Best web-development magazine
+- [Hipster Dev Stack](http://hipsterdevstack.tumblr.com/): A curated directory of artisanal development tools that we used to like before they went mainstream.
+- [NetTutsPlus](http://net.tutsplus.com/): Web development tutorials, from beginner to advanced
+- [Sublime Text Workflow That Beats Coda and Espresso](http://tarantsov.com/blog/2012/02/sublime-text-workflow-that-beats-coda-and-espresso/)
