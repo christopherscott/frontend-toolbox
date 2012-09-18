@@ -23,6 +23,10 @@ _"★" recommended and currently used by the maintainer_
 - [Hypertext Transfer Protocol -- HTTP/1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html): you should read through it at least once
 - [ReFiddle](http://refiddle.com/): Regular Expression (regex) tester... better than the rest
 
+### Feeds
+
+- [Web browser, frontend, standard and webapp feeds to follow](http://paulirish.com/2011/web-browser-frontend-and-standards-feeds-to-follow/)
+
 ### Compatibility
 
 - [When can I use...](http://caniuse.com/): Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers.
