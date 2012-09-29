@@ -86,6 +86,7 @@ Should this be merged with 'JavaScript Build Tools' section below?
 - [Idiomatic JS](https://github.com/rwldrn/idiomatic.js): Principles of Writing Consistent, Idiomatic JavaScript
 - [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/): growing collection of documentation about the most quirky parts JavaScript
 - [JSConf](http://jsconf.com/)
+- [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 
 ### Headless DOM/Browsers
 
@@ -117,6 +118,7 @@ Should this be merged with 'JavaScript Build Tools' section below?
 - ★ [JavaScript Web Applications](http://www.amazon.com/JavaScript-Web-Applications-Alex-MacCaw/dp/144930351X)
 - ★ [JavaScript:The Definitive Guide](http://shop.oreilly.com/product/9780596805531.do)
 - ★ [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
+- [Understanding JavaScript OOP](http://killdream.github.com/blog/2011/10/understanding-javascript-oop/)
 - [JavaScript Patterns](http://shop.oreilly.com/product/9780596806767.do)
 - [Maintainable JavaScript](http://shop.oreilly.com/product/0636920025245.do)
 
@@ -175,6 +177,7 @@ Should this be merged with 'JavaScript Build Tools' section below?
 - ★ [CoffeeScript](http://coffeescript.org/): a little language that compiles into JavaScript
   - [Little Book on CoffeeScript](http://arcturo.github.com/library/coffeescript/)
   - [CoffeeScript Tutorials](http://www.youtube.com/playlist?list=PL399DF0B74063889F&feature=plcp)
+  - [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide)
 - [IcedCoffeeScript](http://maxtaco.github.com/coffee-script/): drop-in replacement interpreter for CoffeeScript with **async control flow semantics**.
 - [LiveScript](http://gkz.github.com/LiveScript/): aims for increased expressiveness and code beauty, while adding features to assist in functional style programming, imperative and object oriented programming, and has an optional class system with inheritance, calls to super, and more.
 - [Roy](http://roy.brianmckenna.org/): an experimental programming language that targets JavaScript and tries to meld JavaScript semantics with some features common in static functional languages.
@@ -234,6 +237,7 @@ Tools to detect errors (syntactic, semantic, otherwise) and potential problems i
 
 ### Quizzes
 
+- [JS Assessment](https://github.com/rmurphey/js-assessment/)
 - [PerfectionKills JS Quiz](http://perfectionkills.com/javascript-quiz/)
 - [So You Think You Know JavaScript](http://dmitry.baranovskiy.com/post/so-you-think-you-know-javascript)
 - [Rebecca Murphey's Challenge](https://gist.github.com/576723)
@@ -299,6 +303,7 @@ Install and use [Sublime Text 2 Package Control](http://wbond.net/sublime_packag
 ## Design
 
 - [This Is Responsive](http://responsive.rga.com/): also see https://github.com/bradfrost/this-is-responsive.git
+- [Starbucks Style Guide](http://www.starbucks.com/static/reference/styleguide/)
 
 ### Icons
 
