@@ -41,11 +41,22 @@ _"★" recommended and currently used by the maintainer_
 
 - [Fixing These jQuery](http://fixingthesejquery.com/) how to debugger to debug jquery
 
+## Maps
+
+- [Gmaps](http://hpneo.github.com/gmaps/) makes it easier to use Google Maps
+- [jVectorMap](http://jvectormap.com/) svg based maps for ie6+, maps included
+- [Leaflet](http://leaflet.cloudmade.com/) an open-source JavaScript library for mobile-friendly interactive maps
+
 ## Charts/graphs/visualization/reporting
 
+- ★ [datavisualization tools](http://selection.datavisualization.ch/) a collection of tools that we, the people behind Datavisualization.ch, work with on a daily basis and recommend warmly
+
 - ★ [flot](http://www.flotcharts.org/) Attractive JavaScript plotting for jQuery
-- [flotr2](http://www.humblesoftware.com/flotr2/) Graphs and Charts for Canvas in JavaScript.
+- [D3](http://d3js.org/) a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG and CSS.
+  - [Rickshaw](http://code.shutterstock.com/rickshaw/) a JavaScript toolkit for creating interactive time series graphs.
+  - [Cubism](http://square.github.com/cubism/) Time Series Visualization
 - [gRaphael](http://g.raphaeljs.com/) SVG charts
+- [flotr2](http://www.humblesoftware.com/flotr2/) Graphs and Charts for Canvas in JavaScript.
 - [RGraph](http://www.rgraph.net/) interactive Javascript charts and graphs for your website using the HTML5 canvas tag
 - [Sencha Touch Charts](http://www.sencha.com/products/touch/charts/) - paid
 - [HighCharts](http://www.highcharts.com/) - paid
@@ -54,11 +65,16 @@ _"★" recommended and currently used by the maintainer_
 - [Fusion Charts](http://www.fusioncharts.com/)
 - [MilkCharts](http://mootools.net/forge/p/milkchart) for MooTools weirdos
 - [Google Chart Tools](https://developers.google.com/chart/) API based
+- [Envision](http://www.humblesoftware.com/envision) is a library for creating fast, dynamic and interactive HTML5 visualizations.
+- [ArborJS](http://arborjs.org/) a graph visualization library using web workers and jQuery
+- [TimelineJS](http://timeline.verite.co/) beautifully crafted timelines that are easy, and intuitive to use.
+- [jQuery Sparklines](http://omnipotent.net/jquery.sparkline/#s-about)
 
 #### UI Toolkits
 
 - [Twiter Bootstrap](http://twitter.github.com/bootstrap/)
   - ★ [Compass Twitter Bootstrap](https://github.com/vwall/compass-twitter-bootstrap)
+  - [BootboxJS](http://bootboxjs.com/) alert, confirm and flexible dialogs for Twitter's Bootstrap framework
 - [jQuery UI](http://jqueryui.com/demos/)
 
 ### Documentation
@@ -87,6 +103,15 @@ Should this be merged with 'JavaScript Build Tools' section below?
 - [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/): growing collection of documentation about the most quirky parts JavaScript
 - [JSConf](http://jsconf.com/)
 - [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+
+### Standalone libraries (no dependencies)
+
+- [Widow Tamer](http://artequalswork.com/posts/on-widows.php) fix typgraphic widows
+- [SwipeJS](http://swipejs.com/) lightweight mobile slider script
+- [accounting.js](http://josscrowcroft.github.com/accounting.js/) number, money and currency formatting, with optional excel-style column rendering
+- [money.js](http://josscrowcroft.github.com/money.js/) currency conversion library, done right - with no dependencies
+- [moment.js](http://momentjs.com/) A 4.8k javascript date library for parsing, validating, manipulating, and formatting dates.
+- [cookies.js](https://github.com/ScottHamper/Cookies)
 
 ### Headless DOM/Browsers
 
@@ -137,12 +162,23 @@ Should this be merged with 'JavaScript Build Tools' section below?
 
 #### Useful jQuery Plugins
 
+- ★[Select2](http://ivaynberg.github.com/select2/) jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 - [FormatCurrency](http://code.google.com/p/jquery-formatcurrency/)
 - [MaskedInput](http://digitalbush.com/projects/masked-input-plugin/)
 - [Fresco](http://www.frescojs.com/) beautiful, responsive lightbox
 - [Chosen](http://harvesthq.github.com/chosen/)
 - [jQuery File Upload](https://github.com/blueimp/jQuery-File-Upload) best uploader on the planet
 - [BigVideo](http://dfcb.github.com/BigVideo.js/)
+
+- [Sisyphus](http://coding.smashingmagazine.com/2011/12/05/sisyphus-js-client-side-drafts-and-more/) client side drafts (think gmail) and more...
+- [jQuery Credit Card Validator](http://paweldecowski.github.com/jQuery-CreditCardValidator/)
+- [jQuery Tagit!](http://aehlke.github.com/tag-it/) transform text inputs to accept deliminated tag strings
+- [VisualSearch](http://documentcloud.github.com/visualsearch/) enhances ordinary search boxes with the ability to autocomplete faceted search queries
+- [Grumble](http://jamescryer.github.com/grumble.js/) tooltips around a 360 degree circle
+- [Complexify](https://github.com/danpalmer/jquery.complexify.js) determine complexity of passwords
+- [SlabText](http://www.frequency-decoder.com/demo/slabText/)
+- [SimpleWeather](http://monkeecreate.github.com/jquery.simpleWeather/)
+- [jQuery Sparklines](http://omnipotent.net/jquery.sparkline/#s-about)
 
 ### Mobile
 
