@@ -169,6 +169,7 @@ Should this be merged with 'JavaScript Build Tools' section below?
 - [Chosen](http://harvesthq.github.com/chosen/)
 - [jQuery File Upload](https://github.com/blueimp/jQuery-File-Upload) best uploader on the planet
 - [BigVideo](http://dfcb.github.com/BigVideo.js/)
+- [jQuery Masonry](http://masonry.desandro.com/index.html) A dynamic layout plugin for jQuery; the flip-side of CSS floats (think pintrest layout)
 
 - [Sisyphus](http://coding.smashingmagazine.com/2011/12/05/sisyphus-js-client-side-drafts-and-more/) client side drafts (think gmail) and more...
 - [jQuery Credit Card Validator](http://paweldecowski.github.com/jQuery-CreditCardValidator/)
