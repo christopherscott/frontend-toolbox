@@ -188,7 +188,7 @@ Should this be merged with 'JavaScript Build Tools' section below?
 
 ### Testing
 
-- [Jasmine](http://pivotal.github.com/jasmine/) 
+- [Jasmine](https://jasmine.github.io/) 
 - [Mocha](http://visionmedia.github.com/mocha/) new, trendy, lightweight
 - [QUnit](http://docs.jquery.com/QUnit) j-unit inspired (i think)
 - [Vows](http://vowsjs.org/) async BDD
